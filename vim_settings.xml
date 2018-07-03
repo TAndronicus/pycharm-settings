@@ -14,6 +14,12 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/Workspace/Python/bukmacher/picker.py" timestamp="1530471878199">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+        <mark key="^" line="22" column="13" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/StackOverflow.py" timestamp="1529594392450">
         <mark key="[" line="1" column="53" />
         <mark key="]" line="1" column="100" />
@@ -45,12 +51,27 @@
         <text encoding="base64">CnByaW50KCdNRUFOJykKcHJpbnQoJ0FDQyBNVicpCmZvciBvYmogaW4gb2JqczoKICAgIGlmIG9iai5maWxlbmFtZSA9PSBmaWxlbmFtZSBcCiAgICAgICAgICAgIGFuZCBvYmouaV9tZXRoID09IDAgXAogICAgICAgICAgICBhbmQgb2JqLmJhZ2dpbmcgPT0gMCBcCiAgICAgICAgICAgIGFuZCBvYmouc3BhY2VfcGFydHMgPT0gMyBcCiAgICAgICAgICAgIGFuZCBvYmoubl9iZXN0ID09IDI6CiAgICAgICAgcHJpbnQob2JqLm12X3Njb3JlKQpwcmludCgnQUNDIEknKQpmb3Igb2JqIGluIG9ianM6CiAgICBpZiBvYmouZmlsZW5hbWUgPT0gZmlsZW5hbWUgXAogICAgICAgICAgICBhbmQgb2JqLmlfbWV0aCA9PSAwIFwKICAgICAgICAgICAgYW5kIG9iai5iYWdnaW5nID09IDAgXAogICAgICAgICAgICBhbmQgb2JqLnNwYWNlX3BhcnRzID09IDMgXAogICAgICAgICAgICBhbmQgb2JqLm5fYmVzdCA9PSAyOgogICAgICAgIHByaW50KG9iai5pX3Njb3JlKQpwcmludCgnTUNDIE1WJykKZm9yIG9iaiBpbiBvYmpzOgogICAgaWYgb2JqLmZpbGVuYW1lID09IGZpbGVuYW1lIFwKICAgICAgICAgICAgYW5kIG9iai5pX21ldGggPT0gMCBcCiAgICAgICAgICAgIGFuZCBvYmouYmFnZ2luZyA9PSAwIFwKICAgICAgICAgICAgYW5kIG9iai5zcGFjZV9wYXJ0cyA9PSAzIFwKICAgICAgICAgICAgYW5kIG9iai5uX2Jlc3QgPT0gMjoKICAgICAgICBwcmludChvYmoubXZfbWNjKQpwcmludCgnTUNDIEknKQpmb3Igb2JqIGluIG9ianM6CiAgICBpZiBvYmouZmlsZW5hbWUgPT0gZmlsZW5hbWUgXAogICAgICAgICAgICBhbmQgb2JqLmlfbWV0aCA9PSAwIFwKICAgICAgICAgICAgYW5kIG9iai5iYWdnaW5nID09IDAgXAogICAgICAgICAgICBhbmQgb2JqLnNwYWNlX3BhcnRzID09IDMgXAogICAgICAgICAgICBhbmQgb2JqLm5fYmVzdCA9PSAyOgogICAgICAgIHByaW50KG9iai5pX21jYyk=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBwcmludChleHQp</text>
+        <text encoding="base64">CnkxID0geS5yZW1vdmUoeTIp</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jy5iYmwnLCA=</text>
+        <text>print(</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ClgxID0gWC5yZW1vdmUoWDIp</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CnByaW50KGluZCk=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">WDEgPSBYLnJlbW92ZShYLnBvcChpbmQpKQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CnByaW50KFgxKQ==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBwcmludChleHQp</text>
+      </register>
+      <register name="7" type="4">
         <text>print('ACC MV')
 for obj in objs:
     if obj.filename == filename \
@@ -60,7 +81,7 @@ for obj in objs:
             and obj.n_best == 2:
         print(obj.mv_score)</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>)
 print('ACC MV')
 for obj in objs:
@@ -71,26 +92,11 @@ for obj in objs:
             and obj.n_best == 2:
         print(obj.mv_score)</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQob2JqLmlfbWNjKQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQob2JqLm12X21jYyk=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQob2JqLmlfc2NvcmUp</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQoKQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvYmoubXZfc2NvcmUpKQogICAgICAgIHByaW50KG9iai5tdl9zY29yZSkpCg==</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">Jy5iYmwnLCA=</text>
+        <text>print(</text>
       </register>
     </registers>
     <search>
@@ -112,6 +118,9 @@ for obj in objs:
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
