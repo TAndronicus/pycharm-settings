@@ -44,17 +44,17 @@
         <mark key="^" line="388" column="29" />
         <mark key="." line="388" column="60" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibrary.py" timestamp="1530938769985">
-        <mark key="[" line="152" column="17" />
-        <mark key="]" line="152" column="17" />
-        <mark key="." line="152" column="17" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibrary.py" timestamp="1530940574032">
+        <mark key="[" line="131" column="17" />
+        <mark key="]" line="131" column="17" />
+        <mark key="." line="131" column="17" />
         <mark key="^" line="17" column="54" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibOld.py" timestamp="1530938776082">
-        <mark key="[" line="20" column="45" />
-        <mark key="]" line="34" column="15" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibOld.py" timestamp="1530940595069">
+        <mark key="[" line="74" column="4" />
+        <mark key="]" line="74" column="4" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="20" column="45" />
+        <mark key="." line="74" column="4" />
       </file>
     </filemarks>
     <jumps />
@@ -63,12 +63,18 @@
         <text encoding="base64">CmRlZiBkZXRlcm1pbmVfY2xmX3R5cGUoY2xmKToKICAgICIiIkRldGVybWluZXMgdHlwZSBvZiBjbGFzc2lmaWVyCgogICAgOnBhcmFtIGNsZjoKICAgIDpyZXR1cm46IGNsZlR5cGU6IENsZlR5cGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIGNsZi5jb2VmXwogICAgICAgIHJldHVybiBDbGZUeXBlLkxJTkVBUgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNvZWZfIGF0dHJpYnV0ZScpCiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIGNsZi5jZW50cm9pZHNfCiAgICAgICAgcmV0dXJuIENsZlR5cGUuTUVBTgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNlbnRyb2lkc18gYXR0cmlidXRlJykKICAgICAgICBwcmludCgnTm8gYXR0cmlidXRlIGZvdW5kJykKICAgIHJhaXNlIEV4Y2VwdGlvbignQ2xhc3NpZmllciBub3QgZGVmaW5lZCcp</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgoKZGVmIGxvYWRfc2FtcGxlc19mcm9tX2ZpbGVfbm9uX3BhcmFtZXRyaXplZChmaWxlbmFtZTogc3RyKToKICAgICIiIkxvYWRzIGRhdGEgZnJvbSBmaWxlLCB0YWtlcyB0d28gZmlyc3QgY29sdW1ucywgc2tpcHMgZmlyc3Qgcm93CgogICAgV2FybmluZzogbWV0aG9kIGRvZXMgbm90IHNvcnQgZGF0YQogICAgTWlzc2luZyBzb3J0aW5nIGFuZCBjb21wb3NpbmcKICAgIDpwYXJhbSBmaWxlbmFtZTogTmFtZSBvZiBmaWxlCiAgICA6cmV0dXJuOiBYLCB5OiBucC5hcnJheSwgbnAuYXJyYXkgLSBzYW1wbGVzIGZvciBjbGFzc2lmaWNhdGlvbgogICAgIiIiCiAgICBmaWxlID0geGxyZC5vcGVuX3dvcmtib29rKGZpbGVuYW1lKQogICAgc2hlZXQgPSBmaWxlLnNoZWV0X2J5X2luZGV4KDApCiAgICBYLCB5ID0gbG9hZF90d29fZmlyc3RfY29sdW1uc19wcmVpbmNyZW1lbnQoc2hlZXQpCiAgICByZXR1cm4gWCwgeQ==</text>
+        <text encoding="base64">CgoKZGVmIGxvYWRfc2FtcGxlc19mcm9tX2RhdGFzZXRzX2ZpcnN0X3R3b19yb3dzKGNsYXNzaWZpZXJfZGF0YTogQ2xhc3NpZmllckRhdGEgPSBDbGFzc2lmaWVyRGF0YSgpKToKICAgICIiIkxvYWRzIGRhdGEgZnJvbSBkYXRhc2V0ICh4bHN4IGZpbGUgd2l0aCBkYXRhKQoKICAgIDpwYXJhbSBjbGFzc2lmaWVyX2RhdGE6IENsYXNzaWZpZXJEYXRhCiAgICA6cmV0dXJuOiBYLCB5OiBucC5hcnJheSwgbnAuYXJyYXkgLSBzYW1wbGVzIGZvciBjbGFzc2lmaWNhdGlvbgogICAgIiIiCiAgICBudW1iZXJfb2ZfZGF0YXNldF9pZl9ub3RfZ2VuZXJhdGVkID0gY2xhc3NpZmllcl9kYXRhLm51bWJlcl9vZl9kYXRhc2V0X2lmX25vdF9nZW5lcmF0ZWQKICAgIGZpbGUgPSB4bHJkLm9wZW5fd29ya2Jvb2soJ2RhdGFzZXRzLnhsc3gnKQogICAgc2hlZXQgPSBmaWxlLnNoZWV0X2J5X2luZGV4KG51bWJlcl9vZl9kYXRhc2V0X2lmX25vdF9nZW5lcmF0ZWQpCiAgICBjb2x1bW5zID0gY2xhc3NpZmllcl9kYXRhLmNvbHVtbnMKICAgIGNsYXNzaWZpZXJfZGF0YS5jb2x1bW5zID0gWzAsIDFdCiAgICBYMCwgWDEgPSByZWFkX2ZlYXR1cmVzKHNoZWV0LCBjbGFzc2lmaWVyX2RhdGEpCiAgICBjbGFzc2lmaWVyX2RhdGEuY29sdW1ucyA9IGNvbHVtbnMKICAgICMgWCA9IFNlbGVjdEtCZXN0KGsgPSAyKS5maXRfdHJhbnNmb3JtKFgsIHkpCiAgICBwcmludCgnUmF0aW8gKDA6MSk6IHt9Ont9Jy5mb3JtYXQobGVuKFgwKSwgbGVuKFgxKSkpCiAgICBYMCwgWDEgPSBzb3J0X2F0dHJpYnV0ZXMoWDApLCBzb3J0X2F0dHJpYnV0ZXMoWDEpCiAgICBhc3NlcnRfZGlzdHJpYnV0aW9uX3NpbXBsaWZpZWQoWDAsIFgxLCBjbGFzc2lmaWVyX2RhdGEpCiAgICBYLCB5ID0gY29tcG9zZV9zb3J0ZWRfcGFydHMoWDAsIFgxKQogICAgcmV0dXJuIFgsIHk=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgoKZGVmIGxvYWRfc2FtcGxlc19mcm9tX2ZpbGVfbm9uX3BhcmFtZXRyaXplZChmaWxlbmFtZTogc3RyKToKICAgICIiIkxvYWRzIGRhdGEgZnJvbSBmaWxlLCB0YWtlcyB0d28gZmlyc3QgY29sdW1ucywgc2tpcHMgZmlyc3Qgcm93CgogICAgV2FybmluZzogbWV0aG9kIGRvZXMgbm90IHNvcnQgZGF0YQogICAgTWlzc2luZyBzb3J0aW5nIGFuZCBjb21wb3NpbmcKICAgIDpwYXJhbSBmaWxlbmFtZTogTmFtZSBvZiBmaWxlCiAgICA6cmV0dXJuOiBYLCB5OiBucC5hcnJheSwgbnAuYXJyYXkgLSBzYW1wbGVzIGZvciBjbGFzc2lmaWNhdGlvbgogICAgIiIiCiAgICBmaWxlID0geGxyZC5vcGVuX3dvcmtib29rKGZpbGVuYW1lKQogICAgc2hlZXQgPSBmaWxlLnNoZWV0X2J5X2luZGV4KDApCiAgICBYLCB5ID0gbG9hZF90d29fZmlyc3RfY29sdW1uc19wcmVpbmNyZW1lbnQoc2hlZXQpCiAgICByZXR1cm4gWCwgeQ==</text>
+        <text>assert_distribution_simplified(X0, X1, classifier_data)</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CgoKZGVmIGxvYWRfdHdvX2ZpcnN0X2NvbHVtbnNfcHJlaW5jcmVtZW50KHNoZWV0OiB4bHJkLnNoZWV0LlNoZWV0KToKICAgICIiIlJlYWRzIGRhdGFzZXQgd2l0aCBYIGZyb20gdHdvIGZpcnN0IGNvbHVtbnMsIHNraXBzIGZpcnN0IHJvdwoKICAgIDpwYXJhbSBzaGVldDogeGxyZC5zaGVldC5TaGVldAogICAgOnJldHVybjogWCwgeTogW10sIFtdCiAgICAiIiIKICAgIGxpbmVfbnVtYmVyID0gMAogICAgbGluZSA9IHNoZWV0LnJvdyhsaW5lX251bWJlcikKICAgIG51bWJlcl9vZl9jb2x1bW5zID0gbGVuKGxpbmUpCiAgICBYLCB5ID0gbnAuemVyb3MoKHNoZWV0Lm5yb3dzLCAyKSksIG5wLnplcm9zKHNoZWV0Lm5yb3dzLCBkdHlwZSA9IG5wLmludCkKICAgIHdoaWxlIGxpbmVfbnVtYmVyIDwgc2hlZXQubnJvd3MgLSAxOgogICAgICAgIGxpbmVfbnVtYmVyICs9IDEKICAgICAgICBsaW5lID0gc2hlZXQucm93KGxpbmVfbnVtYmVyKQogICAgICAgIHJvdyA9IFtdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMik6ICAjIHJhbmdlKG51bWJlcl9vZl9jb2x1bW5zIC0gMSk6CiAgICAgICAgICAgIHJvdy5hcHBlbmQoZmxvYXQobGluZVtpXS52YWx1ZSkpCiAgICAgICAgWFtsaW5lX251bWJlciAtIDEsIDpdID0gcm93CiAgICAgICAgeVtsaW5lX251bWJlciAtIDFdID0gaW50KGxpbmVbbnVtYmVyX29mX2NvbHVtbnMgLSAxXS52YWx1ZSkKICAgIHJldHVybiBYLCB5</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CgoKZGVmIGxvYWRfc2FtcGxlc19mcm9tX2ZpbGVfbm9uX3BhcmFtZXRyaXplZChmaWxlbmFtZTogc3RyKToKICAgICIiIkxvYWRzIGRhdGEgZnJvbSBmaWxlLCB0YWtlcyB0d28gZmlyc3QgY29sdW1ucywgc2tpcHMgZmlyc3Qgcm93CgogICAgV2FybmluZzogbWV0aG9kIGRvZXMgbm90IHNvcnQgZGF0YQogICAgTWlzc2luZyBzb3J0aW5nIGFuZCBjb21wb3NpbmcKICAgIDpwYXJhbSBmaWxlbmFtZTogTmFtZSBvZiBmaWxlCiAgICA6cmV0dXJuOiBYLCB5OiBucC5hcnJheSwgbnAuYXJyYXkgLSBzYW1wbGVzIGZvciBjbGFzc2lmaWNhdGlvbgogICAgIiIiCiAgICBmaWxlID0geGxyZC5vcGVuX3dvcmtib29rKGZpbGVuYW1lKQogICAgc2hlZXQgPSBmaWxlLnNoZWV0X2J5X2luZGV4KDApCiAgICBYLCB5ID0gbG9hZF90d29fZmlyc3RfY29sdW1uc19wcmVpbmNyZW1lbnQoc2hlZXQpCiAgICByZXR1cm4gWCwgeQ==</text>
+      </register>
+      <register name="4" type="4">
         <text>r
 
 def initialize_classifiers(classifier_data: ClassifierData = ClassifierData()):
@@ -90,29 +96,23 @@ def initialize_classifiers(classifier_data: ClassifierData = ClassifierData()):
         raise Exception('Classifier type not defined')
     return clfs</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmRlZiBkZXRlcm1pbmVfY2xmX3R5cGUoY2xmKToKICAgICIiIkRldGVybWluZXMgdHlwZSBvZiBjbGFzc2lmaWVyCgogICAgOnBhcmFtIGNsZjoKICAgIDpyZXR1cm46IGNsZlR5cGU6IENsZlR5cGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIGNsZi5jb2VmXwogICAgICAgIHJldHVybiBDbGZUeXBlLkxJTkVBUgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNvZWZfIGF0dHJpYnV0ZScpCiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIGNsZi5jZW50cm9pZHNfCiAgICAgICAgcmV0dXJuIENsZlR5cGUuTUVBTgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNlbnRyb2lkc18gYXR0cmlidXRlJykKICAgICAgICBwcmludCgnTm8gYXR0cmlidXRlIGZvdW5kJykKICAgIHJhaXNlIEV4Y2VwdGlvbignQ2xhc3NpZmllciBub3QgZGVmaW5lZCcp</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmRlZiBkZXRlcm1pbmVfY2xmX3R5cGUoY2xmKToKICAgICIiIkRldGVybWluZXMgdHlwZSBvZiBjbGFzc2lmaWVyCgogICAgOnBhcmFtIGNsZjoKICAgIDpyZXR1cm46IGNsZlR5cGU6IENsZlR5cGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIGNsZi5jb2VmXwogICAgICAgIHJldHVybiBDbGZUeXBlLkxJTkVBUgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNvZWZfIGF0dHJpYnV0ZScpCiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIGNsZi5jZW50cm9pZHNfCiAgICAgICAgcmV0dXJuIENsZlR5cGUuTUVBTgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNlbnRyb2lkc18gYXR0cmlidXRlJykKICAgICAgICBwcmludCgnTm8gYXR0cmlidXRlIGZvdW5kJykKICAgIHJhaXNlIEV4Y2VwdGlvbignQ2xhc3NpZmllciBub3QgZGVmaW5lZCcp</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CnkxID0geS5yZW1vdmUoeTIp</text>
+        <text encoding="base64">CmRlZiBkZXRlcm1pbmVfY2xmX3R5cGUoY2xmKToKICAgICIiIkRldGVybWluZXMgdHlwZSBvZiBjbGFzc2lmaWVyCgogICAgOnBhcmFtIGNsZjoKICAgIDpyZXR1cm46IGNsZlR5cGU6IENsZlR5cGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIGNsZi5jb2VmXwogICAgICAgIHJldHVybiBDbGZUeXBlLkxJTkVBUgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNvZWZfIGF0dHJpYnV0ZScpCiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIGNsZi5jZW50cm9pZHNfCiAgICAgICAgcmV0dXJuIENsZlR5cGUuTUVBTgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNlbnRyb2lkc18gYXR0cmlidXRlJykKICAgICAgICBwcmludCgnTm8gYXR0cmlidXRlIGZvdW5kJykKICAgIHJhaXNlIEV4Y2VwdGlvbignQ2xhc3NpZmllciBub3QgZGVmaW5lZCcp</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ClgxID0gWC5yZW1vdmUoWDIp</text>
+        <text encoding="base64">CmRlZiBkZXRlcm1pbmVfY2xmX3R5cGUoY2xmKToKICAgICIiIkRldGVybWluZXMgdHlwZSBvZiBjbGFzc2lmaWVyCgogICAgOnBhcmFtIGNsZjoKICAgIDpyZXR1cm46IGNsZlR5cGU6IENsZlR5cGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIGNsZi5jb2VmXwogICAgICAgIHJldHVybiBDbGZUeXBlLkxJTkVBUgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNvZWZfIGF0dHJpYnV0ZScpCiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIGNsZi5jZW50cm9pZHNfCiAgICAgICAgcmV0dXJuIENsZlR5cGUuTUVBTgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNlbnRyb2lkc18gYXR0cmlidXRlJykKICAgICAgICBwcmludCgnTm8gYXR0cmlidXRlIGZvdW5kJykKICAgIHJhaXNlIEV4Y2VwdGlvbignQ2xhc3NpZmllciBub3QgZGVmaW5lZCcp</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CnByaW50KGluZCk=</text>
+        <text encoding="base64">CnkxID0geS5yZW1vdmUoeTIp</text>
       </register>
       <register name="-" type="4">
-        <text>print(</text>
+        <text>assert_distribution_simplified(X0, X1, classifier_data)</text>
       </register>
     </registers>
     <search>
