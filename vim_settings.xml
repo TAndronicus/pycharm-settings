@@ -27,6 +27,9 @@
         <mark key="^" line="1" column="100" />
         <mark key="." line="1" column="100" />
       </file>
+      <file name="/a.dummy" timestamp="1530980126810">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/IntegrationRunner.py" timestamp="1529594711966">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="76" />
