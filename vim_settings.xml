@@ -44,11 +44,17 @@
         <mark key="^" line="388" column="29" />
         <mark key="." line="388" column="60" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibrary.py" timestamp="1530938144051" />
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibOld.py" timestamp="1530938160193">
-        <mark key="]" line="0" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibrary.py" timestamp="1530938769985">
+        <mark key="[" line="152" column="17" />
+        <mark key="]" line="152" column="17" />
+        <mark key="." line="152" column="17" />
+        <mark key="^" line="17" column="54" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibOld.py" timestamp="1530938776082">
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="34" column="15" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="20" column="45" />
       </file>
     </filemarks>
     <jumps />
@@ -57,41 +63,53 @@
         <text encoding="base64">CmRlZiBkZXRlcm1pbmVfY2xmX3R5cGUoY2xmKToKICAgICIiIkRldGVybWluZXMgdHlwZSBvZiBjbGFzc2lmaWVyCgogICAgOnBhcmFtIGNsZjoKICAgIDpyZXR1cm46IGNsZlR5cGU6IENsZlR5cGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIGNsZi5jb2VmXwogICAgICAgIHJldHVybiBDbGZUeXBlLkxJTkVBUgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNvZWZfIGF0dHJpYnV0ZScpCiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIGNsZi5jZW50cm9pZHNfCiAgICAgICAgcmV0dXJuIENsZlR5cGUuTUVBTgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNlbnRyb2lkc18gYXR0cmlidXRlJykKICAgICAgICBwcmludCgnTm8gYXR0cmlidXRlIGZvdW5kJykKICAgIHJhaXNlIEV4Y2VwdGlvbignQ2xhc3NpZmllciBub3QgZGVmaW5lZCcp</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CmRlZiBkZXRlcm1pbmVfY2xmX3R5cGUoY2xmKToKICAgICIiIkRldGVybWluZXMgdHlwZSBvZiBjbGFzc2lmaWVyCgogICAgOnBhcmFtIGNsZjoKICAgIDpyZXR1cm46IGNsZlR5cGU6IENsZlR5cGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIGNsZi5jb2VmXwogICAgICAgIHJldHVybiBDbGZUeXBlLkxJTkVBUgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNvZWZfIGF0dHJpYnV0ZScpCiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIGNsZi5jZW50cm9pZHNfCiAgICAgICAgcmV0dXJuIENsZlR5cGUuTUVBTgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNlbnRyb2lkc18gYXR0cmlidXRlJykKICAgICAgICBwcmludCgnTm8gYXR0cmlidXRlIGZvdW5kJykKICAgIHJhaXNlIEV4Y2VwdGlvbignQ2xhc3NpZmllciBub3QgZGVmaW5lZCcp</text>
+        <text encoding="base64">CgoKZGVmIGxvYWRfc2FtcGxlc19mcm9tX2ZpbGVfbm9uX3BhcmFtZXRyaXplZChmaWxlbmFtZTogc3RyKToKICAgICIiIkxvYWRzIGRhdGEgZnJvbSBmaWxlLCB0YWtlcyB0d28gZmlyc3QgY29sdW1ucywgc2tpcHMgZmlyc3Qgcm93CgogICAgV2FybmluZzogbWV0aG9kIGRvZXMgbm90IHNvcnQgZGF0YQogICAgTWlzc2luZyBzb3J0aW5nIGFuZCBjb21wb3NpbmcKICAgIDpwYXJhbSBmaWxlbmFtZTogTmFtZSBvZiBmaWxlCiAgICA6cmV0dXJuOiBYLCB5OiBucC5hcnJheSwgbnAuYXJyYXkgLSBzYW1wbGVzIGZvciBjbGFzc2lmaWNhdGlvbgogICAgIiIiCiAgICBmaWxlID0geGxyZC5vcGVuX3dvcmtib29rKGZpbGVuYW1lKQogICAgc2hlZXQgPSBmaWxlLnNoZWV0X2J5X2luZGV4KDApCiAgICBYLCB5ID0gbG9hZF90d29fZmlyc3RfY29sdW1uc19wcmVpbmNyZW1lbnQoc2hlZXQpCiAgICByZXR1cm4gWCwgeQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmRlZiBkZXRlcm1pbmVfY2xmX3R5cGUoY2xmKToKICAgICIiIkRldGVybWluZXMgdHlwZSBvZiBjbGFzc2lmaWVyCgogICAgOnBhcmFtIGNsZjoKICAgIDpyZXR1cm46IGNsZlR5cGU6IENsZlR5cGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIGNsZi5jb2VmXwogICAgICAgIHJldHVybiBDbGZUeXBlLkxJTkVBUgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNvZWZfIGF0dHJpYnV0ZScpCiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIGNsZi5jZW50cm9pZHNfCiAgICAgICAgcmV0dXJuIENsZlR5cGUuTUVBTgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNlbnRyb2lkc18gYXR0cmlidXRlJykKICAgICAgICBwcmludCgnTm8gYXR0cmlidXRlIGZvdW5kJykKICAgIHJhaXNlIEV4Y2VwdGlvbignQ2xhc3NpZmllciBub3QgZGVmaW5lZCcp</text>
+        <text encoding="base64">CgoKZGVmIGxvYWRfc2FtcGxlc19mcm9tX2ZpbGVfbm9uX3BhcmFtZXRyaXplZChmaWxlbmFtZTogc3RyKToKICAgICIiIkxvYWRzIGRhdGEgZnJvbSBmaWxlLCB0YWtlcyB0d28gZmlyc3QgY29sdW1ucywgc2tpcHMgZmlyc3Qgcm93CgogICAgV2FybmluZzogbWV0aG9kIGRvZXMgbm90IHNvcnQgZGF0YQogICAgTWlzc2luZyBzb3J0aW5nIGFuZCBjb21wb3NpbmcKICAgIDpwYXJhbSBmaWxlbmFtZTogTmFtZSBvZiBmaWxlCiAgICA6cmV0dXJuOiBYLCB5OiBucC5hcnJheSwgbnAuYXJyYXkgLSBzYW1wbGVzIGZvciBjbGFzc2lmaWNhdGlvbgogICAgIiIiCiAgICBmaWxlID0geGxyZC5vcGVuX3dvcmtib29rKGZpbGVuYW1lKQogICAgc2hlZXQgPSBmaWxlLnNoZWV0X2J5X2luZGV4KDApCiAgICBYLCB5ID0gbG9hZF90d29fZmlyc3RfY29sdW1uc19wcmVpbmNyZW1lbnQoc2hlZXQpCiAgICByZXR1cm4gWCwgeQ==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CmRlZiBkZXRlcm1pbmVfY2xmX3R5cGUoY2xmKToKICAgICIiIkRldGVybWluZXMgdHlwZSBvZiBjbGFzc2lmaWVyCgogICAgOnBhcmFtIGNsZjoKICAgIDpyZXR1cm46IGNsZlR5cGU6IENsZlR5cGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIGNsZi5jb2VmXwogICAgICAgIHJldHVybiBDbGZUeXBlLkxJTkVBUgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNvZWZfIGF0dHJpYnV0ZScpCiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIGNsZi5jZW50cm9pZHNfCiAgICAgICAgcmV0dXJuIENsZlR5cGUuTUVBTgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNlbnRyb2lkc18gYXR0cmlidXRlJykKICAgICAgICBwcmludCgnTm8gYXR0cmlidXRlIGZvdW5kJykKICAgIHJhaXNlIEV4Y2VwdGlvbignQ2xhc3NpZmllciBub3QgZGVmaW5lZCcp</text>
+        <text>r
+
+def initialize_classifiers(classifier_data: ClassifierData = ClassifierData()):
+    &quot;&quot;&quot;Generates list of classifiers for analysis
+
+    :param classifier_data: ClassifierData
+    :return: List of classifiers: [clf, ..., clf]
+    &quot;&quot;&quot;
+    type_of_classifier = classifier_data.type_of_classifier
+    number_of_classifiers = classifier_data.number_of_classifiers
+    clfs = []
+    if type_of_classifier == ClfType.LINEAR:
+        for i in range(number_of_classifiers):
+            clfs.append(LinearSVC(max_iter = 1e6, tol = 1e-10, C = 100))
+    elif type_of_classifier == ClfType.MEAN:
+        for i in range(number_of_classifiers):
+            clfs.append(NearestCentroid())
+    else:
+        raise Exception('Classifier type not defined')
+    return clfs</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CnkxID0geS5yZW1vdmUoeTIp</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ClgxID0gWC5yZW1vdmUoWDIp</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CnByaW50KGluZCk=</text>
+        <text encoding="base64">CmRlZiBkZXRlcm1pbmVfY2xmX3R5cGUoY2xmKToKICAgICIiIkRldGVybWluZXMgdHlwZSBvZiBjbGFzc2lmaWVyCgogICAgOnBhcmFtIGNsZjoKICAgIDpyZXR1cm46IGNsZlR5cGU6IENsZlR5cGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIGNsZi5jb2VmXwogICAgICAgIHJldHVybiBDbGZUeXBlLkxJTkVBUgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNvZWZfIGF0dHJpYnV0ZScpCiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIGNsZi5jZW50cm9pZHNfCiAgICAgICAgcmV0dXJuIENsZlR5cGUuTUVBTgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNlbnRyb2lkc18gYXR0cmlidXRlJykKICAgICAgICBwcmludCgnTm8gYXR0cmlidXRlIGZvdW5kJykKICAgIHJhaXNlIEV4Y2VwdGlvbignQ2xhc3NpZmllciBub3QgZGVmaW5lZCcp</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">WDEgPSBYLnJlbW92ZShYLnBvcChpbmQpKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmRlZiBkZXRlcm1pbmVfY2xmX3R5cGUoY2xmKToKICAgICIiIkRldGVybWluZXMgdHlwZSBvZiBjbGFzc2lmaWVyCgogICAgOnBhcmFtIGNsZjoKICAgIDpyZXR1cm46IGNsZlR5cGU6IENsZlR5cGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIGNsZi5jb2VmXwogICAgICAgIHJldHVybiBDbGZUeXBlLkxJTkVBUgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNvZWZfIGF0dHJpYnV0ZScpCiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIGNsZi5jZW50cm9pZHNfCiAgICAgICAgcmV0dXJuIENsZlR5cGUuTUVBTgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNlbnRyb2lkc18gYXR0cmlidXRlJykKICAgICAgICBwcmludCgnTm8gYXR0cmlidXRlIGZvdW5kJykKICAgIHJhaXNlIEV4Y2VwdGlvbignQ2xhc3NpZmllciBub3QgZGVmaW5lZCcp</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CnByaW50KFgxKQ==</text>
+        <text encoding="base64">CnkxID0geS5yZW1vdmUoeTIp</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBwcmludChleHQp</text>
+        <text encoding="base64">ClgxID0gWC5yZW1vdmUoWDIp</text>
       </register>
       <register name="9" type="4">
-        <text>print('ACC MV')
-for obj in objs:
-    if obj.filename == filename \
-            and obj.i_meth == 0 \
-            and obj.bagging == 0 \
-            and obj.space_parts == 3 \
-            and obj.n_best == 2:
-        print(obj.mv_score)</text>
+        <text encoding="base64">CnByaW50KGluZCk=</text>
       </register>
       <register name="-" type="4">
         <text>print(</text>
