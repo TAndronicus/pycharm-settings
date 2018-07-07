@@ -41,14 +41,20 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="16" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibraryOld.py" timestamp="1530982198146">
+        <mark key="'" line="213" column="63" />
+        <mark key="[" line="5" column="55" />
+        <mark key="]" line="142" column="8" />
+        <mark key="." line="142" column="8" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassificationAnalysis.py" timestamp="1529597082026">
         <mark key="[" line="314" column="0" />
         <mark key="]" line="388" column="60" />
         <mark key="^" line="388" column="29" />
         <mark key="." line="388" column="60" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibrary.py" timestamp="1530978736198">
-        <mark key="'" line="617" column="6" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibrary.py" timestamp="1530981931658">
+        <mark key="'" line="1242" column="4" />
         <mark key="[" line="15" column="54" />
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
@@ -69,15 +75,29 @@
     </filemarks>
     <jumps>
       <jump line="795" column="6" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibrary.py" />
+      <jump line="20" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibrary.py" />
+      <jump line="21" column="4" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibrary.py" />
+      <jump line="1242" column="4" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibrary.py" />
+      <jump line="192" column="27" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibraryOld.py" />
+      <jump line="144" column="27" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibraryOld.py" />
+      <jump line="141" column="23" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibraryOld.py" />
+      <jump line="255" column="4" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibraryOld.py" />
+      <jump line="212" column="63" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibraryOld.py" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>ClassifLibrary.</text>
+      </register>
+      <register name="-" type="4">
+        <text>ClassifLibrary.</text>
+      </register>
+      <register name="/" type="4">
+        <text>train_test</text>
+      </register>
       <register name="0" type="4">
         <text encoding="base64">CmRlZiBkZXRlcm1pbmVfY2xmX3R5cGUoY2xmKToKICAgICIiIkRldGVybWluZXMgdHlwZSBvZiBjbGFzc2lmaWVyCgogICAgOnBhcmFtIGNsZjoKICAgIDpyZXR1cm46IGNsZlR5cGU6IENsZlR5cGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIGNsZi5jb2VmXwogICAgICAgIHJldHVybiBDbGZUeXBlLkxJTkVBUgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNvZWZfIGF0dHJpYnV0ZScpCiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIGNsZi5jZW50cm9pZHNfCiAgICAgICAgcmV0dXJuIENsZlR5cGUuTUVBTgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNlbnRyb2lkc18gYXR0cmlidXRlJykKICAgICAgICBwcmludCgnTm8gYXR0cmlidXRlIGZvdW5kJykKICAgIHJhaXNlIEV4Y2VwdGlvbignQ2xhc3NpZmllciBub3QgZGVmaW5lZCcp</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgoKZGVmIHByaW50X3Njb3Jlc19jb25mX21hdHNfcHJvX2NsYXNzaWZfcHJvX3N1YnNwYWNlKHNjb3JlczogW10sIGN1bXVsYXRlZF9zY29yZXM6IFtdLCBjb25mX21hdDogW10pOgogICAgIiIiUHJpbnRzIHBhcnRpYWwgYW5kIG92ZXJhbGwgc2NvcmVzIGFuZCBjb25mdXNpb24gbWF0cmljZXMKCiAgICA6cGFyYW0gc2NvcmVzOiBbXQogICAgOnBhcmFtIGN1bXVsYXRlZF9zY29yZXM6IFtdCiAgICA6cGFyYW0gY29uZl9tYXQ6IFtdCiAgICA6cmV0dXJuOiB2b2lkCiAgICAiIiIKICAgIHByaW50KCdcblxuSXRlcmF0aW9uIHJlc3VsdHNfcHJvX2RpdmlzaW9uXG5cbicpCiAgICBmb3IgaSBpbiByYW5nZShsZW4oY3VtdWxhdGVkX3Njb3JlcykpOgogICAgICAgIGlmIGkgPT0gbGVuKGN1bXVsYXRlZF9zY29yZXMpIC0gMToKICAgICAgICAgICAgcHJpbnQoJ1Njb3JlcyBmb3IgY29tcG9zaXRlIGNsYXNzaWZpZXInKQogICAgICAgICAgICBwcmludChzY29yZXNbaSAtIDFdKQogICAgICAgICAgICBwcmludCgnT3ZlcmFsbCByZXN1bHQ6IHt9Jy5mb3JtYXQoY3VtdWxhdGVkX3Njb3Jlc1tpXSkpCiAgICAgICAgICAgIGZvciBqIGluIHJhbmdlKGxlbihjb25mX21hdFtpXSkpOgogICAgICAgICAgICAgICAgcHJpbnQoY29uZl9tYXRbaV1bal0pCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgaSA9PSBsZW4oY3VtdWxhdGVkX3Njb3JlcykgLSAyOgogICAgICAgICAgICBwcmludCgnT3ZlcmFsbCByZXN1bHQgZm9yIG1ham9yaXR5IHZvdGluZzoge30nLmZvcm1hdChjdW11bGF0ZWRfc2NvcmVzW2ldKSkKICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuKGNvbmZfbWF0W2ldKSk6CiAgICAgICAgICAgICAgICBwcmludChjb25mX21hdFtpXVtqXSkKICAgICAgICAgICAgY29udGludWUKICAgICAgICBwcmludCgnU2NvcmVzIGZvciB7fS4gY2xhc3NpZmllcicuZm9ybWF0KGkgKyAxKSkKICAgICAgICBwcmludChzY29yZXNbaV0pCiAgICAgICAgcHJpbnQoJ092ZXJhbGwgcmVzdWx0OiB7fScuZm9ybWF0KGN1bXVsYXRlZF9zY29yZXNbaV0pKQogICAgICAgIGZvciBqIGluIHJhbmdlKGxlbihjb25mX21hdFtpXSkpOgogICAgICAgICAgICBwcmludChjb25mX21hdFtpXVtqXSk=</text>
-      </register>
-      <register name="&quot;" type="4">
         <text encoding="base64">CgoKZGVmIHByaW50X3Njb3Jlc19jb25mX21hdHNfcHJvX2NsYXNzaWZfcHJvX3N1YnNwYWNlKHNjb3JlczogW10sIGN1bXVsYXRlZF9zY29yZXM6IFtdLCBjb25mX21hdDogW10pOgogICAgIiIiUHJpbnRzIHBhcnRpYWwgYW5kIG92ZXJhbGwgc2NvcmVzIGFuZCBjb25mdXNpb24gbWF0cmljZXMKCiAgICA6cGFyYW0gc2NvcmVzOiBbXQogICAgOnBhcmFtIGN1bXVsYXRlZF9zY29yZXM6IFtdCiAgICA6cGFyYW0gY29uZl9tYXQ6IFtdCiAgICA6cmV0dXJuOiB2b2lkCiAgICAiIiIKICAgIHByaW50KCdcblxuSXRlcmF0aW9uIHJlc3VsdHNfcHJvX2RpdmlzaW9uXG5cbicpCiAgICBmb3IgaSBpbiByYW5nZShsZW4oY3VtdWxhdGVkX3Njb3JlcykpOgogICAgICAgIGlmIGkgPT0gbGVuKGN1bXVsYXRlZF9zY29yZXMpIC0gMToKICAgICAgICAgICAgcHJpbnQoJ1Njb3JlcyBmb3IgY29tcG9zaXRlIGNsYXNzaWZpZXInKQogICAgICAgICAgICBwcmludChzY29yZXNbaSAtIDFdKQogICAgICAgICAgICBwcmludCgnT3ZlcmFsbCByZXN1bHQ6IHt9Jy5mb3JtYXQoY3VtdWxhdGVkX3Njb3Jlc1tpXSkpCiAgICAgICAgICAgIGZvciBqIGluIHJhbmdlKGxlbihjb25mX21hdFtpXSkpOgogICAgICAgICAgICAgICAgcHJpbnQoY29uZl9tYXRbaV1bal0pCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgaSA9PSBsZW4oY3VtdWxhdGVkX3Njb3JlcykgLSAyOgogICAgICAgICAgICBwcmludCgnT3ZlcmFsbCByZXN1bHQgZm9yIG1ham9yaXR5IHZvdGluZzoge30nLmZvcm1hdChjdW11bGF0ZWRfc2NvcmVzW2ldKSkKICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuKGNvbmZfbWF0W2ldKSk6CiAgICAgICAgICAgICAgICBwcmludChjb25mX21hdFtpXVtqXSkKICAgICAgICAgICAgY29udGludWUKICAgICAgICBwcmludCgnU2NvcmVzIGZvciB7fS4gY2xhc3NpZmllcicuZm9ybWF0KGkgKyAxKSkKICAgICAgICBwcmludChzY29yZXNbaV0pCiAgICAgICAgcHJpbnQoJ092ZXJhbGwgcmVzdWx0OiB7fScuZm9ybWF0KGN1bXVsYXRlZF9zY29yZXNbaV0pKQogICAgICAgIGZvciBqIGluIHJhbmdlKGxlbihjb25mX21hdFtpXSkpOgogICAgICAgICAgICBwcmludChjb25mX21hdFtpXVtqXSk=</text>
       </register>
       <register name="2" type="4">
@@ -104,16 +124,21 @@
       <register name="9" type="4">
         <text encoding="base64">CgoKZGVmIHNwbGl0X3NvcnRlZF9zYW1wbGVzKFg6IFtdLCB5OiBbXSwgY2xhc3NpZmllcl9kYXRhOiBDbGFzc2lmaWVyRGF0YSA9IENsYXNzaWZpZXJEYXRhKCkpOgogICAgIiIiU3BsaXRzIHJhdyBkYXRhIGludG8gbnVtYmVyX29mX2NsYXNzaWZpZXJzICsgMiBwYXJ0cyBvZiBzYW1lIGxlbmd0aAoKICAgIDpwYXJhbSBYOiBucC5hcnJheSwgYXJyYXkgd2l0aCBzb3J0ZWQgZGF0YQogICAgOnBhcmFtIHk6IG5wLmFycmF5CiAgICA6cGFyYW0gY2xhc3NpZmllcl9kYXRhOiBDbGFzc2lmaWVyRGF0YQogICAgOnJldHVybjogWF93aG9sZV90cmFpbiwgeV93aG9sZV90cmFpbiwgWF92YWxpZGF0aW9uLCB5X3ZhbGlkYXRpb24sIFhfdGVzdCwgeV90ZXN0OgogICAgW25wLmFycmF5KDEpLCBucC5hcnJheSgyKSwgLi4uLCBucC5hcnJheShudW1iZXJfb2ZfY2xhc3NpZmllcnMpXSwKICAgIFtucC5hcnJheSgxKSwgbnAuYXJyYXkoMiksIC4uLiwgbnAuYXJyYXkobnVtYmVyX29mX2NsYXNzaWZpZXJzKV0sIG5wLmFycmF5LCBucC5hcnJheSwgbnAuYXJyYXksIG5wLmFycmF5CiAgICAiIiIKICAgIG51bWJlcl9vZl9jbGFzc2lmaWVycyA9IGNsYXNzaWZpZXJfZGF0YS5udW1iZXJfb2ZfY2xhc3NpZmllcnMKICAgIG51bWJlcl9vZl9zcGFjZV9wYXJ0cyA9IGNsYXNzaWZpZXJfZGF0YS5udW1iZXJfb2Zfc3BhY2VfcGFydHMKICAgIHByaW50KCdTcGxpdHRpbmcgc2FtcGxlcycpCiAgICBpZiBsZW4oWCkgPCAobnVtYmVyX29mX2NsYXNzaWZpZXJzICsgMikgKiBudW1iZXJfb2Zfc3BhY2VfcGFydHM6CiAgICAgICAgcmFpc2UgTm90RW5vdWdoU2FtcGxlc0Vycm9yKCdOb3QgZW5vdWdoIHNhbXBsZXMgZm91bmQgd2hlbiBzb3J0aW5nIChsZW4oWCkgPSB7fSknLmZvcm1hdChsZW4oWCkpKQogICAgbGVuZ3RoID0gaW50KGxlbihYKSAvIChudW1iZXJfb2ZfY2xhc3NpZmllcnMgKyAyKSkKICAgIFhfd2hvbGVfdHJhaW4sIHlfd2hvbGVfdHJhaW4sIFhfdmFsaWRhdGlvbiwgeV92YWxpZGF0aW9uLCBYX3Rlc3QsIHlfdGVzdCA9IFwKICAgICAgICBbXSwgW10sIG5wLnplcm9zKChsZW5ndGgsIDIpKSwgbnAuemVyb3MobGVuZ3RoLCBkdHlwZSA9IG5wLmludCksIG5wLnplcm9zKChsZW5ndGgsIDIpKSwgXAogICAgICAgIG5wLnplcm9zKGxlbmd0aCwgZHR5cGUgPSBucC5pbnQpCiAgICBmb3IgaSBpbiByYW5nZShudW1iZXJfb2ZfY2xhc3NpZmllcnMpOgogICAgICAgIFhfdGVtcCwgeV90ZW1wID0gbnAuemVyb3MoKGxlbmd0aCwgMikpLCBucC56ZXJvcyhsZW5ndGgsIGR0eXBlID0gbnAuaW50KQogICAgICAgIGZvciBqIGluIHJhbmdlKGxlbmd0aCk6CiAgICAgICAgICAgIFhfdGVtcFtqLCA6XSA9IChYW2ogKiAobnVtYmVyX29mX2NsYXNzaWZpZXJzICsgMikgKyBpLCA6XSkKICAgICAgICAgICAgeV90ZW1wW2pdID0gKHlbaiAqIChudW1iZXJfb2ZfY2xhc3NpZmllcnMgKyAyKSArIGldKQogICAgICAgIFhfd2hvbGVfdHJhaW4uYXBwZW5kKFhfdGVtcCkKICAgICAgICB5X3dob2xlX3RyYWluLmFwcGVuZCh5X3RlbXApCiAgICBmb3IgaSBpbiByYW5nZShsZW5ndGgpOgogICAgICAgIFhfdmFsaWRhdGlvbltpLCA6XSA9IChYWyhpICsgMSkgKiAobnVtYmVyX29mX2NsYXNzaWZpZXJzICsgMikgLSAyLCA6XSkKICAgICAgICB5X3ZhbGlkYXRpb25baV0gPSAoeVsoaSArIDEpICogKG51bWJlcl9vZl9jbGFzc2lmaWVycyArIDIpIC0gMl0pCiAgICBmb3IgaSBpbiByYW5nZShsZW5ndGgpOgogICAgICAgIFhfdGVzdFtpLCA6XSA9IChYWyhpICsgMSkgKiAobnVtYmVyX29mX2NsYXNzaWZpZXJzICsgMikgLSAxLCA6XSkKICAgICAgICB5X3Rlc3RbaV0gPSAoeVsoaSArIDEpICogKG51bWJlcl9vZl9jbGFzc2lmaWVycyArIDIpIC0gMV0pCiAgICByZXR1cm4gWF93aG9sZV90cmFpbiwgeV93aG9sZV90cmFpbiwgWF92YWxpZGF0aW9uLCB5X3ZhbGlkYXRpb24sIFhfdGVzdCwgeV90ZXN0</text>
       </register>
-      <register name="-" type="4">
-        <text>assert_distribution_simplified(X0, X1, classifier_data)</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>train_test</last-search>
+      <last-offset />
+      <last-pattern>train_test</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>traintestsplit</entry>
+        <entry>initialize</entry>
+        <entry>train_test_split</entry>
+        <entry>train_test</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
