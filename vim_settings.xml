@@ -41,9 +41,9 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="16" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibraryOld.py" timestamp="1530982198146">
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibraryOld.py" timestamp="1530982947499">
         <mark key="'" line="213" column="63" />
-        <mark key="[" line="5" column="55" />
+        <mark key="[" line="142" column="8" />
         <mark key="]" line="142" column="8" />
         <mark key="." line="142" column="8" />
       </file>
@@ -86,10 +86,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ClassifLibrary.</text>
+        <text>ClassifLibrary</text>
       </register>
       <register name="-" type="4">
-        <text>ClassifLibrary.</text>
+        <text>ClassifLibrary</text>
       </register>
       <register name="/" type="4">
         <text>train_test</text>
@@ -158,6 +158,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
