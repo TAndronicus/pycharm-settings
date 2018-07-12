@@ -8,10 +8,10 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1531373933783">
+      <file name="/Python Console" timestamp="1531380327477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1531374100718">
+      <file name="/fragment.py" timestamp="1531380258516">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1530980126810">
@@ -61,11 +61,11 @@
         <mark key="^" line="1" column="100" />
         <mark key="." line="1" column="100" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/IntegrationRunner.py" timestamp="1531374029222">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="10" column="26" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/IntegrationRunner.py" timestamp="1531379885950">
+        <mark key="[" line="93" column="19" />
+        <mark key="]" line="93" column="19" />
+        <mark key="." line="93" column="19" />
+        <mark key="^" line="93" column="18" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/system-tools/latex-tools.py" timestamp="1529604387186">
         <mark key="[" line="23" column="16" />
@@ -93,10 +93,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bi</text>
+        <text>bagging_results[0][0][0]:</text>
       </register>
       <register name="-" type="4">
-        <text>bi</text>
+        <text>bagging_results[0][0][0]:</text>
       </register>
       <register name="/" type="4">
         <text>train_test</text>
