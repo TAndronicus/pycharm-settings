@@ -9,6 +9,11 @@
         <mark key="^" line="33" column="38" />
         <mark key="." line="33" column="38" />
       </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-framework/IntegrationRunner.py" timestamp="1531549382716">
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="10" />
+        <mark key="." line="22" column="10" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/system-tools/Constants.py" timestamp="1529604461424">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="24" />
@@ -54,7 +59,7 @@
         <text encoding="base64">CnkxID0geS5yZW1vdmUoeTIp</text>
       </register>
       <register name="&quot;" type="4">
-        <text>print(</text>
+        <text>True</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ClgxID0gWC5yZW1vdmUoWDIp</text>
@@ -96,7 +101,7 @@ for obj in objs:
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>print(</text>
+        <text>True</text>
       </register>
     </registers>
     <search>
@@ -110,7 +115,7 @@ for obj in objs:
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -119,8 +124,11 @@ for obj in objs:
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
