@@ -64,11 +64,11 @@
         <mark key="^" line="1" column="100" />
         <mark key="." line="1" column="100" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/IntegrationRunner.py" timestamp="1531753257706">
-        <mark key="[" line="21" column="32" />
-        <mark key="]" line="23" column="32" />
-        <mark key="." line="23" column="32" />
-        <mark key="^" line="23" column="32" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/IntegrationRunner.py" timestamp="1531755838748">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/system-tools/latex-tools.py" timestamp="1529604387186">
         <mark key="[" line="23" column="16" />
@@ -102,10 +102,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>combinations</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>combinations</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>train_test</text>
