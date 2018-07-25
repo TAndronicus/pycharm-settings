@@ -6,8 +6,8 @@
       <file name="/Dummy.txt" timestamp="1531475299017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/system-tools/Constants.py" timestamp="1529604461424">
-        <mark key="[" line="8" column="24" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/system-tools/Constants.py" timestamp="1532492576340">
+        <mark key="[" line="8" column="117" />
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
@@ -51,9 +51,6 @@
         <mark key="^" line="33" column="38" />
         <mark key="." line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/system-tools/cracker.py" timestamp="1531759265383">
-        <mark key="[" line="23" column="25" />
-      </file>
       <file name="$USER_HOME$/Workspace/Python/bukmacher/picker.py" timestamp="1530471878199">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="13" />
@@ -73,11 +70,11 @@
         <mark key="." line="23" column="33" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/system-tools/latex-tools.py" timestamp="1529604387186">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="16" />
-        <mark key="^" line="23" column="15" />
-        <mark key="." line="23" column="16" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/system-tools/latex-tools.py" timestamp="1532492465574">
+        <mark key="[" line="27" column="56" />
+        <mark key="]" line="27" column="56" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="56" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibraryOld.py" timestamp="1530982947499">
         <mark key="'" line="213" column="63" />
@@ -105,16 +102,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>/Praca magisterska</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>/Praca magisterska</text>
       </register>
       <register name="/" type="4">
         <text>train_test</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CmRlZiBkZXRlcm1pbmVfY2xmX3R5cGUoY2xmKToKICAgICIiIkRldGVybWluZXMgdHlwZSBvZiBjbGFzc2lmaWVyCgogICAgOnBhcmFtIGNsZjoKICAgIDpyZXR1cm46IGNsZlR5cGU6IENsZlR5cGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIGNsZi5jb2VmXwogICAgICAgIHJldHVybiBDbGZUeXBlLkxJTkVBUgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNvZWZfIGF0dHJpYnV0ZScpCiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIGNsZi5jZW50cm9pZHNfCiAgICAgICAgcmV0dXJuIENsZlR5cGUuTUVBTgogICAgZXhjZXB0OgogICAgICAgICMgcHJpbnQoJ05vIGNlbnRyb2lkc18gYXR0cmlidXRlJykKICAgICAgICBwcmludCgnTm8gYXR0cmlidXRlIGZvdW5kJykKICAgIHJhaXNlIEV4Y2VwdGlvbignQ2xhc3NpZmllciBub3QgZGVmaW5lZCcp</text>
+        <text>delete_files_by_extensions(Constants.study_docs_path + '/Praca magisterska', Constants.latex_output)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cHJpbnQoc2lnbnNbLTFdKWkK</text>
