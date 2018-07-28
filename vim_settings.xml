@@ -29,6 +29,12 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ClfType.py" timestamp="1532781164506">
         <mark key="[" line="7" column="17" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ReadLib.py" timestamp="1532782561996">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassificationAnalysis.py" timestamp="1529597082026">
         <mark key="[" line="314" column="0" />
         <mark key="]" line="388" column="60" />
@@ -54,6 +60,9 @@
         <mark key="^" line="989" column="53" />
         <mark key="." line="989" column="53" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/Dataset.py" timestamp="1532782578108">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/MergingAlgorithm.py" timestamp="1531475311177">
         <mark key="[" line="121" column="70" />
         <mark key="]" line="33" column="38" />
@@ -65,13 +74,6 @@
         <mark key="]" line="22" column="13" />
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="13" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/StackOverflow.py" timestamp="1529594392450">
-        <mark key="[" line="1" column="53" />
-        <mark key="]" line="1" column="100" />
-        <mark key="m" line="1" column="13" />
-        <mark key="^" line="1" column="100" />
-        <mark key="." line="1" column="100" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/IntegrationRunner.py" timestamp="1531758284352">
         <mark key="[" line="23" column="33" />
@@ -91,7 +93,7 @@
         <mark key="]" line="142" column="8" />
         <mark key="." line="142" column="8" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/IntegrationRunner.py" timestamp="1532781465974">
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/IntegrationRunner.py" timestamp="1532782410350">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
@@ -116,11 +118,11 @@
       <jump line="212" column="63" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibraryOld.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBudW1iZXJfb2Zfc3Vic3BhY2VzOiBpbnQsCg==</text>
+      <register name="&quot;" type="4">
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>train_test</text>
