@@ -29,7 +29,7 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ClfType.py" timestamp="1532781164506">
         <mark key="[" line="7" column="17" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ReadLib.py" timestamp="1532787572634">
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ReadLib.py" timestamp="1532787663894">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="17" column="25" />
@@ -122,7 +122,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGxpbmVzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>classifier_data</text>
@@ -134,31 +134,31 @@
         <text encoding="base64">CiAgICAgICAgaWYgbGluZS5zdGFydHN3aXRoKCJAIik6CiAgICAgICAgICAgIGNvbnRpbnVl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGxpbmVzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFgsIHkgPSBbXSwgW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGUuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsaW5lLnN0YXJ0c3dpdGgoIkAiKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBsaW5lX2FzX2FycmF5ID0gbGluZS5yZXBsYWNlKCJcbiIsICIiLCAxKS5zcGxpdCgiLCIpCiAgICAgICAgcm93ID0gW10KICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4obGluZV9hc19hcnJheSkgLSAxKToKICAgICAgICAgICAgcm93LmFwcGVuZChmbG9hdChsaW5lX2FzX2FycmF5W2ldKSkKICAgICAgICBYLmFwcGVuZChyb3cpCiAgICAgICAgeS5hcHBlbmQoaW50KGZsb2F0KGxpbmVfYXNfYXJyYXlbLTFdKSkpCiAgICByZXR1cm4gWCwgeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpbmVzID0gZmlsZS5yZWFkbGluZXMoKQo=</text>
+        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGxpbmVzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGUgPSBvcGVuKGZpbGVuYW1lLCAiciIpCg==</text>
+        <text encoding="base64">ICAgIFgsIHkgPSBbXSwgW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIGZpbGUuY2xvc2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IFgsIHk6IFtdLCBbXQo=</text>
+        <text encoding="base64">ICAgIGxpbmVzID0gZmlsZS5yZWFkbGluZXMoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBmaWxlbmFtZTogTmFtZSBvZiB0aGUgZmlsZQo=</text>
+        <text encoding="base64">ICAgIGZpbGUgPSBvcGVuKGZpbGVuYW1lLCAiciIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIlJlYWRzIGRhdGEgZnJvbSBjb21tYSBzZXBhcmF0ZWQgdmFsdWUgZmlsZXMK</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
