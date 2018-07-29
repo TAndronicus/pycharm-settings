@@ -17,7 +17,7 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1532798737060">
+      <file name="/Python Console" timestamp="1532843714497">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532798740691">
@@ -25,6 +25,12 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ClfLib.py" timestamp="1532844329611">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
       </file>
       <file name="/a.dummy" timestamp="1532796378566">
         <mark key="[" line="0" column="0" />
@@ -52,6 +58,12 @@
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ClfLibTest.py" timestamp="1532845301475">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="14" column="51" />
+        <mark key="." line="14" column="51" />
+        <mark key="^" line="14" column="51" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibOld.py" timestamp="1530978089136">
         <mark key="[" line="78" column="63" />
@@ -83,12 +95,12 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="13" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ReadLibTest.py" timestamp="1532798941140">
-        <mark key="'" line="18" column="8" />
-        <mark key="[" line="18" column="39" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="15" column="51" />
-        <mark key="." line="18" column="8" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ReadLibTest.py" timestamp="1532843687506">
+        <mark key="'" line="19" column="8" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/IntegrationRunner.py" timestamp="1531758284352">
         <mark key="[" line="23" column="33" />
@@ -108,11 +120,11 @@
         <mark key="]" line="142" column="8" />
         <mark key="." line="142" column="8" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/IntegrationRunner.py" timestamp="1532782410350">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="30" />
-        <mark key="^" line="4" column="30" />
-        <mark key="." line="4" column="30" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/IntegrationRunner.py" timestamp="1532844700072">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/router-cracker/crack.py" timestamp="1531687637152">
         <mark key="[" line="12" column="62" />
@@ -137,8 +149,8 @@
       <jump line="17" column="8" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ReadLibTest.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBPcHRzIGltcG9ydCBPcHRzCg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -150,31 +162,31 @@
         <text>np.array(dataset.training_sets_X)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W2l0ZW0gZm9yIHN1Ymxpc3QgaW4gbCBmb3IgaXRlbSBpbiBzdWJsaXN0XQo=</text>
+        <text encoding="base64">ZnJvbSBPcHRzIGltcG9ydCBPcHRzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SW50ZWdyYXRpb25SdW5uZXJUZXN0LnB5Cg==</text>
+        <text encoding="base64">ICAgICAgICBYID0gW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgXyBpbiByYW5nZShudW1iZXJfb2ZfCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtYmVyX29mX3NldCA9IGludChsaW5lWzEwXS52YWx1ZSkgLSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtYmVyX29mX3NldCA9IGludChsaW5lWzEwXS52YWx1ZSkgLSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgaW50KGxpbmVbMTFdLnZhbHVlKSA9PSAwOgogICAgICAgICAgICBudW1iZXJfb2Zfc2V0ID0gaW50KGxpbmVbMTBdLnZhbHVlKSAtIDE=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpbmUgPSBzaGVldC5yb3cobGluZV9udW1iZXIpCg==</text>
+        <text encoding="base64">ZGVmIHByZXBhcmVfY2xmcyh0eXBlX29mX2NsZiwgcGFyYW0pOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG51bWJlcl9vZl9jb2x1bW5zID0gbGVuKGxpbmUpCg==</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lX251bWJlciArPSAxCg==</text>
+        <text encoding="base64">W2l0ZW0gZm9yIHN1Ymxpc3QgaW4gbCBmb3IgaXRlbSBpbiBzdWJsaXN0XQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
