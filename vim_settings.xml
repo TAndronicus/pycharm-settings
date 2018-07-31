@@ -23,8 +23,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/WeightType.py" timestamp="1533054852447">
-        <mark key="[" line="6" column="5" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/WeightType.py" timestamp="1533057549013">
+        <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="8" />
         <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="8" />
@@ -59,10 +59,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/IntegrationRunner.py" timestamp="1533056281218">
-        <mark key="[" line="10" column="61" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="10" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/IntegrationRunner.py" timestamp="1533057507158">
+        <mark key="[" line="12" column="61" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1531475299017">
@@ -74,9 +74,9 @@
         <mark key="." line="8" column="24" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ClfLib.py" timestamp="1533056514559">
-        <mark key="[" line="47" column="34" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="49" column="34" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ClfType.py" timestamp="1532781164506">
         <mark key="[" line="7" column="17" />
@@ -148,7 +148,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNvcnRlZF93ZWlnaHRzLCBzb3J0ZWRfY2xmcyA9IHppcCgqc29ydGVkKHppcCh3ZWlnaHRzLCBjbGZzKSkpCg==</text>
+        <text encoding="base64">Zm9yIHcgaW4gc2VsZWN0ZWRfd2VpZ2h0czoK</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -160,31 +160,31 @@
         <text>clfs, weights, opts</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNvcnRlZF93ZWlnaHRzLCBzb3J0ZWRfY2xmcyA9IHppcCgqc29ydGVkKHppcCh3ZWlnaHRzLCBjbGZzKSkpCg==</text>
+        <text encoding="base64">Zm9yIHcgaW4gc2VsZWN0ZWRfd2VpZ2h0czoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIHdlaWdodCBpbiB3ZWlnaHRzOgo=</text>
+        <text encoding="base64">ICAgIHByaW50KHcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdlaWdodCkK</text>
+        <text encoding="base64">ICAgIHNvcnRlZF93ZWlnaHRzLCBzb3J0ZWRfY2xmcyA9IHppcCgqc29ydGVkKHppcCh3ZWlnaHRzLCBjbGZzKSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE1FQU4gPSAnTWVhbicK</text>
+        <text encoding="base64">Zm9yIHdlaWdodCBpbiB3ZWlnaHRzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVyICs9IDEK</text>
+        <text encoding="base64">ICAgIHByaW50KHdlaWdodCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGl0ZXIgPSAxCg==</text>
+        <text encoding="base64">ICAgIE1FQU4gPSAnTWVhbicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpdGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICBpdGVyICs9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkZvdW5kIikK</text>
+        <text encoding="base64">ICAgIGl0ZXIgPSAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbnQoZmxvYXQobGluZVs5XS52YWx1ZSkpID09IDE6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpdGVyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
