@@ -9,7 +9,7 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1533065207955">
+      <file name="/Python Console" timestamp="1540399115442">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1533065284821">
@@ -63,8 +63,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/loan/loan.py" timestamp="1540397988608">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/Python/loan/loan.py" timestamp="1540400514107">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="14" column="42" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/IntegrationRunner.py" timestamp="1533063206718">
         <mark key="[" line="10" column="0" />
@@ -158,44 +161,44 @@
       <jump line="17" column="8" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ReadLibTest.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgcHJpbnQoYWN0dWFsUmF0ZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>rate - 2000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICBYLCB5ID0gaW5pdGlhbGl6ZV9saXN0X29mX2xpc3RzKDEwKSwgaW5pdGlhbGl6ZV9saXN0X29mX2xpc3RzKDEwKQ==</text>
+        <text>(1 + percentage / (12 * 100))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFhfdmFsLCB5X3ZhbCA9IGluaXRpYWxpemVfbGlzdF9vZl9saXN0cygxMCksIGluaXRpYWxpemVfbGlzdF9vZl9saXN0cygxMCkK</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoYWN0dWFsUmF0ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHcpCg==</text>
+        <text encoding="base64">ICAgIGFjdHVhbFJhdGUgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zm9yIHcgaW4gd2UxaWdodHM6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KDEgKyBwZXJjZW50YWdlIC8gKDEyICogMTAwKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm9yIHcgaW4gc2VsZWN0ZWRfd2VpZ2h0czoK</text>
+        <text encoding="base64">ICAgIFhfdmFsLCB5X3ZhbCA9IGluaXRpYWxpemVfbGlzdF9vZl9saXN0cygxMCksIGluaXRpYWxpemVfbGlzdF9vZl9saXN0cygxMCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50KHcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNvcnRlZF93ZWlnaHRzLCBzb3J0ZWRfY2xmcyA9IHppcCgqc29ydGVkKHppcCh3ZWlnaHRzLCBjbGZzKSkpCg==</text>
+        <text encoding="base64">Zm9yIHcgaW4gd2UxaWdodHM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIHdlaWdodCBpbiB3ZWlnaHRzOgo=</text>
+        <text encoding="base64">Zm9yIHcgaW4gc2VsZWN0ZWRfd2VpZ2h0czoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdlaWdodCkK</text>
+        <text encoding="base64">ICAgIHByaW50KHcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE1FQU4gPSAnTWVhbicK</text>
+        <text encoding="base64">ICAgIHNvcnRlZF93ZWlnaHRzLCBzb3J0ZWRfY2xmcyA9IHppcCgqc29ydGVkKHppcCh3ZWlnaHRzLCBjbGZzKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
