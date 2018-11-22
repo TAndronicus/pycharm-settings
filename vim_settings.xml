@@ -63,11 +63,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/loan/loan.py" timestamp="1542650824891">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-        <mark key="^" line="1" column="8" />
+      <file name="$USER_HOME$/Workspace/Python/loan/loan.py" timestamp="1542917444858">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="22" column="10" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/IntegrationRunner.py" timestamp="1533063206718">
         <mark key="[" line="10" column="0" />
@@ -168,10 +168,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">bW9udGhzICogZmlyc3RSYXRlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">bW9udGhzICogZmlyc3RSYXRlIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
