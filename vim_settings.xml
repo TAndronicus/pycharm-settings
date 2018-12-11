@@ -82,6 +82,13 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassifLibrary.py" timestamp="1544560035805">
+        <mark key="'" line="90" column="36" />
+        <mark key="[" line="624" column="0" />
+        <mark key="]" line="624" column="0" />
+        <mark key="." line="624" column="0" />
+        <mark key="^" line="624" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ClfLib.py" timestamp="1533056514559">
         <mark key="[" line="49" column="34" />
         <mark key="]" line="51" column="0" />
@@ -165,16 +172,19 @@
       <jump line="255" column="4" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibraryOld.py" />
       <jump line="212" column="63" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/Classification/ClassifLibraryOld.py" />
       <jump line="17" column="8" filename="/media/jb/145C91ED5C91CA3E/Workspace/Python/classifier-integration/ReadLibTest.py" />
+      <jump line="1015" column="12" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassifLibrary.py" />
+      <jump line="9" column="21" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassifLibrary.py" />
+      <jump line="90" column="36" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassifLibrary.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xmLm1heF9kZXB0aCgxKQo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>rate - 2000</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text>selection</text>
       </register>
       <register name="0" type="4">
         <text>(1 + percentage / (12 * 100))</text>
@@ -211,10 +221,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search>selection</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>selection</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -223,6 +233,7 @@
         <entry>initialize</entry>
         <entry>train_test_split</entry>
         <entry>train_test</entry>
+        <entry>selection</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -235,7 +246,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -249,6 +260,36 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
