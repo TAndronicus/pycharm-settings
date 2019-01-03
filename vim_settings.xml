@@ -9,7 +9,7 @@
       <file name="/Dummy.txt" timestamp="1546528670981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1546534175827">
+      <file name="/Python Console" timestamp="1546536123124">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassificationAnalysis.py" timestamp="1546533811202">
@@ -19,18 +19,23 @@
         <mark key="." line="436" column="19" />
         <mark key="^" line="436" column="19" />
       </file>
+      <file name="/fragment.py" timestamp="1546535976954">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/stats3" timestamp="1545240980379">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="/StatisticalAnalysis" timestamp="1546533815099">
+      <file name="/StatisticalAnalysis" timestamp="1546536050598">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" timestamp="1546534228852">
+      <file name="/a.dummy" timestamp="1546535921072">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" timestamp="1546536121649">
         <mark key="'" line="16" column="26" />
-        <mark key="[" line="270" column="67" />
-        <mark key="]" line="271" column="52" />
-        <mark key="." line="271" column="52" />
-        <mark key="^" line="271" column="52" />
+        <mark key="[" line="272" column="26" />
+        <mark key="]" line="267" column="0" />
+        <mark key="." line="267" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -48,38 +53,38 @@
       <jump line="16" column="26" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">CndpdGggb3BlbigncmVzJywgJ3cnKSBhcyBmOgogICAgIyBoZWFkZXIgKGZpbGVuYW1lcykKICAgIGZvciBmaWxlbmFtZSBpbiBmaWxlbmFtZXM6CiAgICAgICAgZi53cml0ZSgnLCcgKyBmaWxlbmFtZS5zcGxpdCgnLicpWzBdKQogICAgZi53cml0ZSgiXG4iKQogICAgZm9yIChrZXksIHZhbCkgaW4gbWV0aG9kX2RpY3Rfc2hvcnQuaXRlbXMoKToKICAgICAgICBmb3IgY2xmIGluIGNsZnM6CiAgICAgICAgICAgIGYud3JpdGUoJ1xjbGZ7JyArIHZhbCArICd9eycgKyBzdHIoY2xmIC0gMSkgKyAnfScpCiAgICAgICAgICAgIGZvciBmaWxlbmFtZSBpbiBmaWxlbmFtZXM6CiAgICAgICAgICAgICAgICBvYmogPSBnZXRfZGVwZW5kZW50X29uX25fYmVzdCgp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZSgnXGNsZnsnICsgdmFsICsgJ317JyArIHN0cihjbGYgLSAxKSArICd9JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iaiA9IGdldF9kZXBlbmRlbnRfb25fbl9iZXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBjbGYgaW4gY2xmczoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZSgnXGNsZnsnICsgdmFsICsgJ317JyArIHN0cihjbGYgLSAxKSArICd9JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHJhbmsgaW4gcmFua2luZ3M6CiAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBGLCBwSCA9IGZyaWVkbWFuX2hvbG1fdGVzdCh2YWxzU2NvcmUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9zb3J0ZWRfZnJpZWRtYW4odmFscyk6CiAgICBmLCBwLCByYW5raW5ncywgcGl2b3RzID0gZnJpZWRtYW5fdGVzdCh2YWxzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBmb3IgbyBpbiBvYmo6Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iaiA9IGdldF9kZXBlbmRlbnRfb25fbl9iZXN0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIHNwYWNlIGluIHNwYWNlOgo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>clf - 1</text>
       </register>
     </registers>
     <search>
