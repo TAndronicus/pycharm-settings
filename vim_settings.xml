@@ -29,19 +29,19 @@
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/stats3" timestamp="1545240980379">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="/StatisticalAnalysis" timestamp="1546591303085">
+      <file name="/StatisticalAnalysis" timestamp="1546592330846">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1546535921072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" timestamp="1546591334155">
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" timestamp="1546592154726">
         <mark key="e" line="297" column="8" />
         <mark key="'" line="16" column="26" />
-        <mark key="[" line="327" column="0" />
-        <mark key="]" line="255" column="26" />
-        <mark key="." line="255" column="26" />
-        <mark key="^" line="255" column="26" />
+        <mark key="[" line="334" column="33" />
+        <mark key="]" line="334" column="33" />
+        <mark key="." line="334" column="33" />
+        <mark key="^" line="329" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -90,7 +90,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZmlsZS53cml0ZSgnXG4nKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>adj_p</text>
+        <text>str</text>
       </register>
     </registers>
     <search>
