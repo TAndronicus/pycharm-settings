@@ -13,7 +13,7 @@
         <mark key="[" line="274" column="0" />
         <mark key="]" line="274" column="74" />
       </file>
-      <file name="/Python Console" timestamp="1546667585326">
+      <file name="/Python Console" timestamp="1546668819242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassificationAnalysis.py" timestamp="1546533811202">
@@ -23,25 +23,29 @@
         <mark key="." line="436" column="19" />
         <mark key="^" line="436" column="19" />
       </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/nonparametric_tests.py" timestamp="1546668672639">
+        <mark key="[" line="264" column="11" />
+        <mark key="]" line="264" column="55" />
+      </file>
       <file name="/fragment.py" timestamp="1546591239551">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/stats3" timestamp="1545240980379">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="/StatisticalAnalysis" timestamp="1546622108926">
+      <file name="/StatisticalAnalysis" timestamp="1546668812732">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1546535921072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" timestamp="1546634161995">
-        <mark key="e" line="294" column="8" />
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" timestamp="1546668803026">
+        <mark key="e" line="295" column="8" />
         <mark key="'" line="16" column="26" />
-        <mark key="[" line="252" column="65" />
-        <mark key="]" line="252" column="0" />
-        <mark key="." line="252" column="0" />
-        <mark key="^" line="252" column="63" />
+        <mark key="[" line="253" column="49" />
+        <mark key="]" line="309" column="41" />
+        <mark key="." line="309" column="41" />
+        <mark key="^" line="309" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -60,7 +64,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICBkaWN0ID0ge30KICAgIGZvciBpIGluIHJhbmdlKDAsIGxlbihyYW5raW5ncykpOgogICAgICAgIGRpY3Rbc3RyKGkpXSA9IHJhbmtpbmdzW2ldCiAgICBwdmFscyA9IFtdCiAgICBmb3IgaSBpbiByYW5nZSgwLCBsZW4ocmFua2luZ3MpKToKICAgICAgICBjb21wYXJpc29ucywgeiwgcEgsIGFkal9wID0gaG9sbV90ZXN0KGRpY3QsIHN0cihpKSkKICAgICAgICBwdmFscy5hcHBlbmQobWluKGFkal9wKSkKICAgIHJldHVybiBwLCBtaW4ocHZhbHMp</text>
+        <text>comparisons, z_values, p_values, adj_p_values</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB2YWxzID0gW10K</text>
