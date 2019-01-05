@@ -13,7 +13,7 @@
         <mark key="[" line="274" column="0" />
         <mark key="]" line="274" column="74" />
       </file>
-      <file name="/Python Console" timestamp="1546668819242">
+      <file name="/Python Console" timestamp="1546669862032">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassificationAnalysis.py" timestamp="1546533811202">
@@ -33,19 +33,19 @@
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/stats3" timestamp="1545240980379">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="/StatisticalAnalysis" timestamp="1546668812732">
+      <file name="/StatisticalAnalysis" timestamp="1546670494913">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1546535921072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" timestamp="1546668803026">
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" timestamp="1546670487464">
         <mark key="e" line="295" column="8" />
-        <mark key="'" line="16" column="26" />
-        <mark key="[" line="253" column="49" />
-        <mark key="]" line="309" column="41" />
-        <mark key="." line="309" column="41" />
-        <mark key="^" line="309" column="41" />
+        <mark key="'" line="293" column="7" />
+        <mark key="[" line="343" column="12" />
+        <mark key="]" line="343" column="26" />
+        <mark key="^" line="343" column="26" />
+        <mark key="." line="343" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -61,40 +61,41 @@
       <jump line="230" column="21" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
       <jump line="50" column="20" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
       <jump line="16" column="26" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
+      <jump line="293" column="7" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>comparisons, z_values, p_values, adj_p_values</text>
+        <text encoding="base64">ICAgIGRpY3QgPSB7fQogICAgZm9yIGkgaW4gcmFuZ2UoMCwgbGVuKHJhbmtpbmdzKSk6CiAgICAgICAgZGljdFtzdHIoaSldID0gcmFua2luZ3NbaV0KICAgIGNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gaG9sbV90ZXN0KGRpY3QsIHN0cihsZW4ocmFua2luZ3MpIC0gMSkpCiAgICBjb21wYXJpc29uc0QsIHpfdmFsdWVzLCBwX3ZhbHVlcywgYWRqX3BfdmFsdWVzID0gYm9uZmVycm9uaV9kdW5uX3Rlc3QoZGljdCwgc3RyKGxlbihyYW5raW5ncykgLSAxKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB2YWxzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ZXIgPSAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdmFscy5hcHBlbmQobWluKHBIKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDAsIGxlbihyYW5raW5ncykpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBIW3ZhbCArICdfJyArIHJlc25hbWVdID0gaG9sbV9taW4ocmFua2luZ3MpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhbmtzID0gW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZS53cml0ZSgnLCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZS53cml0ZSgiLFJhbmtcbiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVucm91Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGUud3JpdGUoJywnICsgZmlsZW5hbWUuc3BsaXQoJy4nKVswXVswOjNdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBudW1iZXJfYXNfaW50ID0gaW50KHBvdygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzbmFtZSA9IG1lYXN1cmUgKyAnXycgKyBzdHIoc3BhY2UpCiAgICAgICAgICAgIGZvciBmaWxlbmFtZSBpbiBmaWxlbmFtZXM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJvdW5kZWQ6IGZsb2F0Cg==</text>
+        <text encoding="base64">ICAgICMgaGVhZGVyIChmaWxlbmFtZXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbGUud3JpdGUoJywnICsgKQo=</text>
+        <text encoding="base64">ICAgIHB2YWxzID0gW10K</text>
       </register>
       <register name="-" type="4">
-        <text>pvals</text>
+        <text>dict.items():</text>
       </register>
     </registers>
     <search>
@@ -122,6 +123,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
