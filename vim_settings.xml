@@ -9,12 +9,34 @@
       <file name="/Dummy.txt" timestamp="1546528670981">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1546683228402">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/nonparametric_tests.py" timestamp="1546668672639">
+        <mark key="[" line="264" column="11" />
+        <mark key="]" line="264" column="55" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/rate.py" timestamp="1546683650225">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1546591239551">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/rate" timestamp="1546683774383">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/stats3" timestamp="1545240980379">
+        <mark key="'" line="14" column="0" />
+      </file>
+      <file name="/StatisticalAnalysis" timestamp="1546683804130">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1546535921072">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/StatisticalAnalysis.py" timestamp="1546540453439">
         <mark key="[" line="274" column="0" />
         <mark key="]" line="274" column="74" />
-      </file>
-      <file name="/Python Console" timestamp="1546669862032">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassificationAnalysis.py" timestamp="1546533811202">
         <mark key="'" line="30" column="17" />
@@ -22,22 +44,6 @@
         <mark key="]" line="436" column="19" />
         <mark key="." line="436" column="19" />
         <mark key="^" line="436" column="19" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/nonparametric_tests.py" timestamp="1546668672639">
-        <mark key="[" line="264" column="11" />
-        <mark key="]" line="264" column="55" />
-      </file>
-      <file name="/fragment.py" timestamp="1546591239551">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/stats3" timestamp="1545240980379">
-        <mark key="'" line="14" column="0" />
-      </file>
-      <file name="/StatisticalAnalysis" timestamp="1546670494913">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1546535921072">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" timestamp="1546670487464">
         <mark key="e" line="295" column="8" />
