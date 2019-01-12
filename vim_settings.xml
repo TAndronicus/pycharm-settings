@@ -9,7 +9,7 @@
       <file name="/Dummy.txt" timestamp="1546528670981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1546683228402">
+      <file name="/Python Console" timestamp="1547296755714">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/nonparametric_tests.py" timestamp="1546668672639">
@@ -28,7 +28,7 @@
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/stats3" timestamp="1545240980379">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="/StatisticalAnalysis" timestamp="1546683804130">
+      <file name="/StatisticalAnalysis" timestamp="1546684149402">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1546535921072">
@@ -45,13 +45,22 @@
         <mark key="." line="436" column="19" />
         <mark key="^" line="436" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" timestamp="1546670487464">
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" timestamp="1546684146715">
         <mark key="e" line="295" column="8" />
         <mark key="'" line="293" column="7" />
-        <mark key="[" line="343" column="12" />
-        <mark key="]" line="343" column="26" />
+        <mark key="[" line="319" column="87" />
+        <mark key="]" line="319" column="88" />
         <mark key="^" line="343" column="26" />
-        <mark key="." line="343" column="26" />
+        <mark key="." line="319" column="88" />
+      </file>
+      <file name="/Playground" timestamp="1547296936650">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/Playground.py" timestamp="1547296940344">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="4" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -71,37 +80,37 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGRpY3QgPSB7fQogICAgZm9yIGkgaW4gcmFuZ2UoMCwgbGVuKHJhbmtpbmdzKSk6CiAgICAgICAgZGljdFtzdHIoaSldID0gcmFua2luZ3NbaV0KICAgIGNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gaG9sbV90ZXN0KGRpY3QsIHN0cihsZW4ocmFua2luZ3MpIC0gMSkpCiAgICBjb21wYXJpc29uc0QsIHpfdmFsdWVzLCBwX3ZhbHVlcywgYWRqX3BfdmFsdWVzID0gYm9uZmVycm9uaV9kdW5uX3Rlc3QoZGljdCwgc3RyKGxlbihyYW5raW5ncykgLSAxKSk=</text>
+        <text>get_dependent_from_n_best(9, best, space, key, 0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ZXIgPSAwCg==</text>
+        <text encoding="base64">ICAgICNzb21ldGhpbmcgaGVyZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ZXIgPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBIW3ZhbCArICdfJyArIHJlc25hbWVdID0gaG9sbV9taW4ocmFua2luZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhbmtzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBIW3ZhbCArICdfJyArIHJlc25hbWVdID0gaG9sbV9taW4ocmFua2luZ3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZS53cml0ZSgiLFJhbmtcbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhbmtzID0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGUud3JpdGUoJywnICsgZmlsZW5hbWUuc3BsaXQoJy4nKVswXVswOjNdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZS53cml0ZSgiLFJhbmtcbiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzbmFtZSA9IG1lYXN1cmUgKyAnXycgKyBzdHIoc3BhY2UpCiAgICAgICAgICAgIGZvciBmaWxlbmFtZSBpbiBmaWxlbmFtZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGUud3JpdGUoJywnICsgZmlsZW5hbWUuc3BsaXQoJy4nKVswXVswOjNdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgaGVhZGVyIChmaWxlbmFtZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzbmFtZSA9IG1lYXN1cmUgKyAnXycgKyBzdHIoc3BhY2UpCiAgICAgICAgICAgIGZvciBmaWxlbmFtZSBpbiBmaWxlbmFtZXM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB2YWxzID0gW10K</text>
+        <text encoding="base64">ICAgICMgaGVhZGVyIChmaWxlbmFtZXMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>dict.items():</text>
+        <text>divmod(125, 50)[1])</text>
       </register>
     </registers>
     <search>
@@ -132,6 +141,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
