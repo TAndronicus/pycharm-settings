@@ -12,9 +12,9 @@
       <file name="/Python Console" timestamp="1553195246438">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/nonparametric_tests.py" timestamp="1546668672639">
-        <mark key="[" line="264" column="11" />
-        <mark key="]" line="264" column="55" />
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/nonparametric_tests.py" timestamp="1553202863507">
+        <mark key="[" line="97" column="11" />
+        <mark key="]" line="97" column="61" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/rate.py" timestamp="1546683650225">
         <mark key="[" line="0" column="0" />
@@ -31,12 +31,12 @@
       <file name="/a.dummy" timestamp="1546535921072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" timestamp="1553198085888">
-        <mark key="'" line="13" column="18" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="0" />
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" timestamp="1553202881057">
+        <mark key="'" line="18" column="18" />
+        <mark key="[" line="53" column="51" />
+        <mark key="]" line="53" column="51" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/AdvIntegrRes.py" timestamp="1551907803620">
         <mark key="[" line="26" column="0" />
@@ -55,7 +55,7 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="/DtAnalysis" timestamp="1553197940355">
+      <file name="/DtAnalysis" timestamp="1553202891518">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/StatisticalAnalysis.py" timestamp="1546540453439">
@@ -107,7 +107,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>str(</text>
+        <text>iman_davenport, p_value, rankings_avg, rankings_cmp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -137,12 +137,12 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmlfbWNjX3N0ZCA9IGlfbWNjX3N0ZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>print(o)</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search />
