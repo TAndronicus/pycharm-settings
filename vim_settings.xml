@@ -9,7 +9,7 @@
       <file name="/Dummy.txt" timestamp="1546528670981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1553203499605">
+      <file name="/Python Console" timestamp="1553268314130">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/nonparametric_tests.py" timestamp="1553202863507">
@@ -142,7 +142,7 @@
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search />
