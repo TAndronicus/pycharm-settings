@@ -6,7 +6,7 @@
       <file name="/ClassificationAnalysis" timestamp="1546532477711">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546528670981">
+      <file name="/Dummy.txt" timestamp="1553334153832">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1553321493435">
@@ -31,12 +31,12 @@
       <file name="/a.dummy" timestamp="1546535921072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" timestamp="1553321682082">
-        <mark key="'" line="18" column="18" />
-        <mark key="[" line="74" column="29" />
-        <mark key="]" line="74" column="30" />
-        <mark key="." line="74" column="30" />
-        <mark key="^" line="74" column="35" />
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" timestamp="1553334547564">
+        <mark key="'" line="81" column="39" />
+        <mark key="[" line="81" column="33" />
+        <mark key="]" line="81" column="34" />
+        <mark key="^" line="87" column="7" />
+        <mark key="." line="81" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/AdvIntegrRes.py" timestamp="1551907803620">
         <mark key="[" line="26" column="0" />
@@ -55,7 +55,7 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="/DtAnalysis" timestamp="1553321690155">
+      <file name="/DtAnalysis" timestamp="1553334549070">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/StatisticalAnalysis.py" timestamp="1546540453439">
@@ -69,11 +69,11 @@
         <mark key="." line="436" column="19" />
         <mark key="^" line="436" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" timestamp="1547837620627">
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" timestamp="1553333626994">
         <mark key="e" line="295" column="8" />
-        <mark key="'" line="184" column="32" />
-        <mark key="[" line="319" column="87" />
-        <mark key="]" line="319" column="88" />
+        <mark key="'" line="9" column="63" />
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="72" />
         <mark key="^" line="343" column="26" />
         <mark key="." line="319" column="88" />
       </file>
@@ -104,40 +104,42 @@
       <jump line="353" column="52" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassificationAnalysis.py" />
       <jump line="14" column="18" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
       <jump line="5" column="8" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtRes.py" />
+      <jump line="9" column="63" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
+      <jump line="81" column="39" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>iman_davenport, p_value, rankings_avg, rankings_cmp</text>
+        <text encoding="base64">Cm9ianMgPSBnZXRfZGVwZW5kZW50X29uKGRpbXNbMF0sIDMsIDIsIDIwLCBzZXJpZXhbMF0pCm9ianMgPSBtYXBfZHRyZXgob2JqcywgInNjb3JlIikKaW1hbl9kYXZlbnBvcnQsIHBfdmFsdWUsIHJhbmtpbmdzX2F2ZywgcmFua2luZ3NfY21wID0gZnJpZWRtYW5fdGVzdChvYmpzKQpwcmludChyYW5raW5nc19jbXAp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b2JqcyA9IGdldF9kZXBlbmRlbnRfb24oZGltc1syXSwgNywgMiwgMjAsIHNlcmlleFswXSkKb2JqcyA9IG1hcF9kdHJleChvYmpzLCAic2NvcmUiKQppbWFuX2RhdmVucG9ydCwgcF92YWx1ZSwgcmFua2luZ3NfYXZnLCByYW5raW5nc19jbXAgPSBmcmllZG1hbl90ZXN0KG9ianMpCnByaW50KHJhbmtpbmdzX2NtcCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkdAo=</text>
+        <text encoding="base64">cHJpbnQocmFua2luZ3NfY21wKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">b2Jqc1swXSwgb2Jqc1stMV0gPSBvYmpzWy0xXSwgb2Jqc1swXQppbWFuX2RhdmVucG9ydCwgcF92YWx1ZSwgcmFua2luZ3NfYXZnLCByYW5raW5nc19jbXAgPSBmcmllZG1hbl90ZXN0KG9ianMpCnByaW50KHJhbmtpbmdzX2NtcCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkdC1tb2RlbC9EdFJlcyBpbXBvcnQgRHRSZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGVuKHZhbHVlcykpCg==</text>
+        <text encoding="base64">cHJpbnQob2IpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBOYU4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
+        <text encoding="base64">aW1wb3J0IEEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlfbWNjX3N0ZCA9IGlfbWNjX3N0ZAo=</text>
+        <text encoding="base64">ZnJvbSBkdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">Mywg</text>
       </register>
     </registers>
     <search>
