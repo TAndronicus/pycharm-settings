@@ -3,13 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/ClassificationAnalysis" timestamp="1546532477711">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1554664834495">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1555517252179">
+      <file name="/Python Console" timestamp="1556035420460">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/nonparametric_tests.py" timestamp="1553202863507">
@@ -42,17 +36,8 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt-analysis/DtAnalysis.py" timestamp="1553197560166">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/file-changer.py" timestamp="1554664536601">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="20" />
+      <file name="/so" timestamp="1556035797553">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtRes.py" timestamp="1555249514009">
         <mark key="'" line="5" column="8" />
@@ -89,9 +74,6 @@
         <mark key="^" line="343" column="26" />
         <mark key="." line="319" column="88" />
       </file>
-      <file name="/Playground" timestamp="1547311558760">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/DtsAnalysis" timestamp="1555518423744">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,13 +84,37 @@
         <mark key="." line="77" column="32" />
         <mark key="^" line="77" column="32" />
       </file>
+      <file name="/file-changer" timestamp="1554664365561">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ClassificationAnalysis" timestamp="1546532477711">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1554664834495">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt-analysis/DtAnalysis.py" timestamp="1553197560166">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/so.py" timestamp="1556035794568">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/file-changer.py" timestamp="1554664536601">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
+      <file name="/Playground" timestamp="1547311558760">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/Playground.py" timestamp="1547312852994">
         <mark key="]" line="28" column="40" />
         <mark key="^" line="28" column="40" />
         <mark key="." line="28" column="40" />
-      </file>
-      <file name="/file-changer" timestamp="1554664365561">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
