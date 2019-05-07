@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1557160500023">
+      <file name="/Python Console" timestamp="1557252311094">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/nonparametric_tests.py" timestamp="1553202863507">
@@ -224,7 +224,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
