@@ -47,7 +47,7 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="/DtAnalysis" timestamp="1558282739901">
+      <file name="/DtAnalysis" timestamp="1558288767924">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassificationAnalysis.py" timestamp="1551734810984">
@@ -57,12 +57,16 @@
         <mark key="." line="436" column="19" />
         <mark key="^" line="436" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" timestamp="1558282738140">
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" timestamp="1558288766451">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="138" column="19" />
         <mark key="]" line="138" column="20" />
         <mark key="." line="138" column="20" />
-        <mark key="^" line="162" column="69" />
+        <mark key="^" line="161" column="69" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res.csv" timestamp="1558289273840">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="55" column="88" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsRes.py" timestamp="1554664689501">
         <mark key="[" line="15" column="78" />
@@ -89,11 +93,11 @@
       <file name="/Dummy.txt" timestamp="1557751395007">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/LatexMappings.py" timestamp="1558281112854">
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="6" column="23" />
-        <mark key="." line="6" column="23" />
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/LatexMappings.py" timestamp="1558288431332">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt-analysis/DtAnalysis.py" timestamp="1553197560166">
         <mark key="[" line="0" column="9" />
@@ -177,34 +181,39 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>number: float, resolution: int</text>
+        <text>,bi,bu,c,d,h,i,m,p,se,t,wd,wi,rank
+$\Psi_{5}^{vol}$,0.413,0.105,0.516,0.856,0.228,0.665,0.331,0.000,0.000,7.334,0.818,0.899,6.20
+$\Psi_{5}^{inv}$,0.428,0.160,0.484,0.862,0.145,0.598,0.247,0.000,0.023,3.676,0.803,0.877,5.62
+$\Psi_{3}^{vol}$,0.458,0.094,0.493,0.839,0.093,0.517,0.505,0.000,0.000,1.233,0.797,0.864,3.87
+$\Psi_{3}^{inv}$,0.390,0.067,0.546,0.856,0.175,0.485,0.292,0.000,0.020,0.864,0.798,0.895,4.45
+$\Psi_{MV}$,0.422,0.054,0.452,0.845,0.133,0.565,0.237,-0.001,0.002,3.162,0.786,0.884,3.10</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TGF0ZXhNYXBwaW5ncy5zc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbV9wcmludCgic2VyaWVzIiwgZmlsZV90b193cml0ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TGF0ZXhNYXBwaW5ncy5zc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnRfc3RhdHNfc2VyaWVzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBwcmludF9zdGF0c19uX2NsZigpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9ianMgPSBnZXRfZGVwZW5kZW50X29uKGRlcGVuZGVudF9kaW0sIDcsIDIsIDYwLCBzZXJpZXhbMF0pCiAgICBvYmpzID0gbWFwX2R0cmV4KG9ianMsICJhY2MiKQogICAgaW1hbl9kYXZlbnBvcnQsIHBfdmFsdWUsIHJhbmtpbmdzX2F2ZywgcmFua2luZ3NfY21wID0gZnJpZWRtYW5fdGVzdChvYmpzKQogICAgcHJpbnQocmFua2luZ3NfY21wKQogICAgcmFua2luZ3MgPSBjcmVhdGVfcmFua19kaWN0KHJhbmtpbmdzX2NtcCkKICAgIGNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gaG9sbV90ZXN0KHJhbmtpbmdzLCBzdHIobGVuKHJhbmtpbmdzKSAtIDEpKQogICAgcEggPSBbeCBmb3IgXywgeCBpbiBzb3J0ZWQoemlwKGNvbXBhcmlzb25zSCwgcEgpKV0KICAgIHByaW50KHBIKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVwZW5kZW50X2RpbSA9IGRpbXNbMF0KZm9yIHNlcmllcyBpbiBzZXJpZXg6CiAgIHByaW50KHNlcmllcykKICAgZm9yIG1lYXMgaW4gWyJhY2MiLCAibWNjIl06CiAgICAgICBwcmludChtZWFzKQogICAgICAgb2JqcyA9IGdldF9kZXBlbmRlbnRfb24oZGVwZW5kZW50X2RpbSwgOSwgMiwgNjAsIHNlcmllcykKICAgICAgIG9ianMgPSBtYXBfZHRyZXgob2JqcywgbWVhcykKICAgICAgIGltYW5fZGF2ZW5wb3J0LCBwX3ZhbHVlLCByYW5raW5nc19hdmcsIHJhbmtpbmdzX2NtcCA9IGZyaWVkbWFuX3Rlc3Qob2JqcykKICAgICAgIHJhbmtpbmdzID0gY3JlYXRlX3JhbmtfZGljdChyYW5raW5nc19jbXApCiAgICAgICBwcmludCgicmFua3M6ICIgKyBzdHIocmFua2luZ3NfY21wKSkKICAgICAgIGNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gYm9uZmVycm9uaV9kdW5uX3Rlc3QocmFua2luZ3MsIHN0cihsZW4ocmFua2luZ3MpIC0gMSkpCiAgICAgICBwSCA9IFt4IGZvciBfLCB4IGluIHNvcnRlZCh6aXAoY29tcGFyaXNvbnNILCBwSCkpXQogICAgICAgcHJpbnQoInAtdmFsdWVzOiAiICsgc3RyKHBIKSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBvYmpzID0gZ2V0X2RlcGVuZGVudF9vbihkZXBlbmRlbnRfZGltLCA3LCAyLCA2MCwgc2VyaWV4WzBdKQojIG9ianMgPSBtYXBfZHRyZXgob2JqcywgImFjYyIpCiMgaW1hbl9kYXZlbnBvcnQsIHBfdmFsdWUsIHJhbmtpbmdzX2F2ZywgcmFua2luZ3NfY21wID0gZnJpZWRtYW5fdGVzdChvYmpzKQojIHByaW50KHJhbmtpbmdzX2NtcCkKIyByYW5raW5ncyA9IGNyZWF0ZV9yYW5rX2RpY3QocmFua2luZ3NfY21wKQojIGNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gaG9sbV90ZXN0KHJhbmtpbmdzLCBzdHIobGVuKHJhbmtpbmdzKSAtIDEpKQojIHBIID0gW3ggZm9yIF8sIHggaW4gc29ydGVkKHppcChjb21wYXJpc29uc0gsIHBIKSldCiMgcHJpbnQocEgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">cHJpbnRfc3RhdHNfc2VyaWVzKCkK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBwcmludF9zdGF0c19uX2NsZigpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG9ianMgPSBnZXRfZGVwZW5kZW50X29uKGRlcGVuZGVudF9kaW0sIDcsIDIsIDYwLCBzZXJpZXhbMF0pCiAgICBvYmpzID0gbWFwX2R0cmV4KG9ianMsICJhY2MiKQogICAgaW1hbl9kYXZlbnBvcnQsIHBfdmFsdWUsIHJhbmtpbmdzX2F2ZywgcmFua2luZ3NfY21wID0gZnJpZWRtYW5fdGVzdChvYmpzKQogICAgcHJpbnQocmFua2luZ3NfY21wKQogICAgcmFua2luZ3MgPSBjcmVhdGVfcmFua19kaWN0KHJhbmtpbmdzX2NtcCkKICAgIGNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gaG9sbV90ZXN0KHJhbmtpbmdzLCBzdHIobGVuKHJhbmtpbmdzKSAtIDEpKQogICAgcEggPSBbeCBmb3IgXywgeCBpbiBzb3J0ZWQoemlwKGNvbXBhcmlzb25zSCwgcEgpKV0KICAgIHByaW50KHBIKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVwZW5kZW50X2RpbSA9IGRpbXNbMF0KZm9yIHNlcmllcyBpbiBzZXJpZXg6CiAgIHByaW50KHNlcmllcykKICAgZm9yIG1lYXMgaW4gWyJhY2MiLCAibWNjIl06CiAgICAgICBwcmludChtZWFzKQogICAgICAgb2JqcyA9IGdldF9kZXBlbmRlbnRfb24oZGVwZW5kZW50X2RpbSwgOSwgMiwgNjAsIHNlcmllcykKICAgICAgIG9ianMgPSBtYXBfZHRyZXgob2JqcywgbWVhcykKICAgICAgIGltYW5fZGF2ZW5wb3J0LCBwX3ZhbHVlLCByYW5raW5nc19hdmcsIHJhbmtpbmdzX2NtcCA9IGZyaWVkbWFuX3Rlc3Qob2JqcykKICAgICAgIHJhbmtpbmdzID0gY3JlYXRlX3JhbmtfZGljdChyYW5raW5nc19jbXApCiAgICAgICBwcmludCgicmFua3M6ICIgKyBzdHIocmFua2luZ3NfY21wKSkKICAgICAgIGNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gYm9uZmVycm9uaV9kdW5uX3Rlc3QocmFua2luZ3MsIHN0cihsZW4ocmFua2luZ3MpIC0gMSkpCiAgICAgICBwSCA9IFt4IGZvciBfLCB4IGluIHNvcnRlZCh6aXAoY29tcGFyaXNvbnNILCBwSCkpXQogICAgICAgcHJpbnQoInAtdmFsdWVzOiAiICsgc3RyKHBIKSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBvYmpzID0gZ2V0X2RlcGVuZGVudF9vbihkZXBlbmRlbnRfZGltLCA3LCAyLCA2MCwgc2VyaWV4WzBdKQojIG9ianMgPSBtYXBfZHRyZXgob2JqcywgImFjYyIpCiMgaW1hbl9kYXZlbnBvcnQsIHBfdmFsdWUsIHJhbmtpbmdzX2F2ZywgcmFua2luZ3NfY21wID0gZnJpZWRtYW5fdGVzdChvYmpzKQojIHByaW50KHJhbmtpbmdzX2NtcCkKIyByYW5raW5ncyA9IGNyZWF0ZV9yYW5rX2RpY3QocmFua2luZ3NfY21wKQojIGNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gaG9sbV90ZXN0KHJhbmtpbmdzLCBzdHIobGVuKHJhbmtpbmdzKSAtIDEpKQojIHBIID0gW3ggZm9yIF8sIHggaW4gc29ydGVkKHppcChjb21wYXJpc29uc0gsIHBIKSldCiMgcHJpbnQocEgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VyaWVzKQo=</text>
+        <text encoding="base64">cHJpbnRfc3RhdHNfc2VyaWVzKCkK</text>
       </register>
       <register name="-" type="4">
         <text>str</text>
