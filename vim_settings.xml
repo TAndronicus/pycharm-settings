@@ -47,7 +47,7 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="/DtAnalysis" timestamp="1558288767924">
+      <file name="/DtAnalysis" timestamp="1558295516564">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassificationAnalysis.py" timestamp="1551734810984">
@@ -57,11 +57,11 @@
         <mark key="." line="436" column="19" />
         <mark key="^" line="436" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" timestamp="1558288766451">
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" timestamp="1558295101808">
         <mark key="'" line="85" column="0" />
-        <mark key="[" line="138" column="19" />
-        <mark key="]" line="138" column="20" />
-        <mark key="." line="138" column="20" />
+        <mark key="[" line="110" column="45" />
+        <mark key="]" line="110" column="45" />
+        <mark key="." line="110" column="45" />
         <mark key="^" line="161" column="69" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res.csv" timestamp="1558289273840">
@@ -130,7 +130,6 @@
         <mark key="^" line="16" column="12" />
         <mark key="." line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-stats.csv" timestamp="1558292078866" />
     </filemarks>
     <jumps>
       <jump line="12" column="34" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/stats6" />
@@ -217,7 +216,7 @@ $\Psi_{MV}$,0.422,0.054,0.452,0.845,0.133,0.565,0.237,-0.001,0.002,3.162,0.786,0
         <text encoding="base64">cHJpbnRfc3RhdHNfc2VyaWVzKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>holm_test</text>
       </register>
     </registers>
     <search>
