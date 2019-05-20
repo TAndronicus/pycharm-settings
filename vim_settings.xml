@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1558374633200">
+      <file name="/Python Console" timestamp="1558378373102">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/nonparametric_tests.py" timestamp="1558298048740">
@@ -51,7 +51,7 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="/DtAnalysis" timestamp="1558372293513">
+      <file name="/DtAnalysis" timestamp="1558379223268">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassificationAnalysis.py" timestamp="1551734810984">
@@ -61,11 +61,11 @@
         <mark key="." line="436" column="19" />
         <mark key="^" line="436" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" timestamp="1558374921496">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" timestamp="1558379158231">
+        <mark key="[" line="112" column="65" />
+        <mark key="]" line="113" column="67" />
+        <mark key="^" line="113" column="67" />
+        <mark key="." line="113" column="67" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsRes.py" timestamp="1554664689501">
         <mark key="[" line="15" column="78" />
@@ -182,40 +182,41 @@
       <jump line="81" column="24" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res.csv" />
       <jump line="83" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="112" column="54" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">Y29tcGFyaXNvbnNILCB6LCBwSCwgYWRqX3AgPSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gaG9sbV90ZXN0KHJhbmtpbmdzLCBzdHIobGVuKHJhbmtpbmdzKSAtIDEpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAgPSBzcC5wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAgPSBzcC5wb3N0aG9jX2R1bm4ob2JqcywgcF9hZGp1c3QgPSAnYm9uZmVycm9uaScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBwID0gc3AucG9zdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAgPSBzcC5wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBwID0gc3AucG9zdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmFua3MgPSB7JzAnOiA0LjY1LCAnMSc6IDYuMDcsICcyJzogMy42MSwgJzMnOiA1LjI5LCAnNCc6IDMuNjF9CmNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gYm9uZmVycm9uaV9kdW5uX3Rlc3QocmFua3MsICc0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbV9wcmludCgicmFua3M6ICIgKyBzdHIocmFua2luZ3NfY21wKSArICJcbiIsIGZpbGUpCg==</text>
+        <text encoding="base64">cmFua3MgPSB7JzAnOiA0LjY1LCAnMSc6IDYuMDcsICcyJzogMy42MSwgJzMnOiA1LjI5LCAnNCc6IDMuNjF9CmNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gYm9uZmVycm9uaV9kdW5uX3Rlc3QocmFua3MsICc0JykK</text>
       </register>
       <register name="-" type="4">
-        <text>holm</text>
+        <text>rankings</text>
       </register>
     </registers>
     <search>
