@@ -22,7 +22,7 @@
       <file name="/StatisticalAnalysis" timestamp="1546684149402">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1558186769157">
+      <file name="/a.dummy" timestamp="1558376030673">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/MathUtils" timestamp="1558282339809">
@@ -97,6 +97,11 @@
         <mark key="]" line="6" column="25" />
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/non_parametric_tests.py" timestamp="1558376085296">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt-analysis/DtAnalysis.py" timestamp="1553197560166">
         <mark key="[" line="0" column="9" />
@@ -183,31 +188,31 @@
         <text encoding="base64">Y29tcGFyaXNvbnNILCB6LCBwSCwgYWRqX3AgPSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAgPSBzcC5wCg==</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAgPSBzcC5wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBwID0gc3AucG9zdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBwID0gc3AucG9zdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmFua3MgPSB7JzAnOiA0LjY1LCAnMSc6IDYuMDcsICcyJzogMy42MSwgJzMnOiA1LjI5LCAnNCc6IDMuNjF9CmNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gYm9uZmVycm9uaV9kdW5uX3Rlc3QocmFua3MsICc0JykK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">cmFua3MgPSB7JzAnOiA0LjY1LCAnMSc6IDYuMDcsICcyJzogMy42MSwgJzMnOiA1LjI5LCAnNCc6IDMuNjF9CmNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gYm9uZmVycm9uaV9kdW5uX3Rlc3QocmFua3MsICc0JykK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbV9wcmludCgicmFua3M6ICIgKyBzdHIocmFua2luZ3NfY21wKSArICJcbiIsIGZpbGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbV9wcmludCgic2VyaWVzIiwgZmlsZV90b193cml0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbV9wcmludCgicmFua3M6ICIgKyBzdHIocmFua2luZ3NfY21wKSArICJcbiIsIGZpbGUpCg==</text>
       </register>
       <register name="-" type="4">
         <text>holm</text>
