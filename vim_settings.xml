@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1558298051271">
+      <file name="/Python Console" timestamp="1558372518280">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/nonparametric_tests.py" timestamp="1558298048740">
@@ -51,9 +51,10 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="/DtAnalysis" timestamp="1558298296989">
+      <file name="/DtAnalysis" timestamp="1558372293513">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/nonparametric_tests.py" timestamp="1558372528860" />
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassificationAnalysis.py" timestamp="1551734810984">
         <mark key="'" line="353" column="52" />
         <mark key="[" line="41" column="39" />
@@ -61,11 +62,12 @@
         <mark key="." line="436" column="19" />
         <mark key="^" line="436" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" timestamp="1558370300781">
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" timestamp="1558372616294">
         <mark key="'" line="85" column="0" />
-        <mark key="[" line="150" column="91" />
-        <mark key="]" line="84" column="26" />
-        <mark key="." line="84" column="26" />
+        <mark key="[" line="151" column="46" />
+        <mark key="]" line="151" column="45" />
+        <mark key="." line="151" column="45" />
+        <mark key="^" line="151" column="45" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsRes.py" timestamp="1554664689501">
         <mark key="[" line="15" column="78" />
@@ -183,31 +185,31 @@
         <text encoding="base64">Y29tcGFyaXNvbnNILCB6LCBwSCwgYWRqX3AgPSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmFua3MgPSB7JzAnOiA0LjY1LCAnMSc6IDYuMDcsICcyJzogMy42MSwgJzMnOiA1LjI5LCAnNCc6IDMuNjF9CmNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gYm9uZmVycm9uaV9kdW5uX3Rlc3QocmFua3MsICc0JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmFua3MgPSB7JzAnOiA0LjY1LCAnMSc6IDYuMDcsICcyJzogMy42MSwgJzMnOiA1LjI5LCAnNCc6IDMuNjF9CmNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gYm9uZmVycm9uaV9kdW5uX3Rlc3QocmFua3MsICc0JykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbV9wcmludCgicmFua3M6ICIgKyBzdHIocmFua2luZ3NfY21wKSArICJcbiIsIGZpbGUpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbV9wcmludCgic2VyaWVzIiwgZmlsZV90b193cml0ZSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">TGF0ZXhNYXBwaW5ncy5zc3MK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbV9wcmludCgicmFua3M6ICIgKyBzdHIocmFua2luZ3NfY21wKSArICJcbiIsIGZpbGUpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbV9wcmludCgic2VyaWVzIiwgZmlsZV90b193cml0ZSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">TGF0ZXhNYXBwaW5ncy5zc3MK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnRfc3RhdHNfc2VyaWVzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBwcmludF9zdGF0c19uX2NsZigpCg==</text>
+        <text encoding="base64">cHJpbnRfc3RhdHNfc2VyaWVzKCkK</text>
       </register>
       <register name="-" type="4">
         <text>holm_test</text>
