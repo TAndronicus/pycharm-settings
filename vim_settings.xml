@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/7_1.0_0.5_0.0_20.0_20.0" timestamp="1558639792766">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/5_0.3_0.5_0.0_20.0_20.0" timestamp="1558639775071">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -11,10 +16,19 @@
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/rate.py" timestamp="1546683650225">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1558758797567">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/3_1.0_0.5_0.0_20.0_20.0" timestamp="1558639765663">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1558374286771">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/rate" timestamp="1546683774383">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/StatisticalAnalysis" timestamp="1546684149402">
         <mark key="[" line="0" column="0" />
@@ -23,6 +37,17 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/MathUtils" timestamp="1558282339809">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/so" timestamp="1556115759882">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/5_0.0_0.5_0.0_20.0_20.0" timestamp="1558639769934">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/DtAnalysis" timestamp="1558629178174">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/7_0.7_0.5_0.0_20.0_20.0" timestamp="1558639790222">
@@ -38,8 +63,18 @@
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" timestamp="1558642005725">
         <mark key="'" line="241" column="13" />
       </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/3_0.7_0.5_0.0_20.0_20.0" timestamp="1558639763278">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="/DtsAnalysis" timestamp="1558448942674">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/9_0.3_0.5_0.0_20.0_20.0" timestamp="1558639797982">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" timestamp="1558639827597">
         <mark key="'" line="4" column="38" />
@@ -53,64 +88,6 @@
       </file>
       <file name="/file-changer" timestamp="1554664365561">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/5_1.0_0.5_0.0_20.0_20.0" timestamp="1558639781630">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/7_0.3_0.5_0.0_20.0_20.0" timestamp="1558639786687">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/9_0.7_0.5_0.0_20.0_20.0" timestamp="1558639800654">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/3_0.0_0.5_0.0_20.0_20.0" timestamp="1558639757502">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="/DtsAnalysis (1)" timestamp="1558639831372">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/7_1.0_0.5_0.0_20.0_20.0" timestamp="1558639792766">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1558625512461">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1558374286771">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/rate" timestamp="1546683774383">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/so" timestamp="1556115759882">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/5_0.0_0.5_0.0_20.0_20.0" timestamp="1558639769934">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="/DtAnalysis" timestamp="1558629178174">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/3_0.7_0.5_0.0_20.0_20.0" timestamp="1558639763278">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/9_0.3_0.5_0.0_20.0_20.0" timestamp="1558639797982">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="/ClassificationAnalysis" timestamp="1546532477711">
         <mark key="[" line="0" column="0" />
@@ -128,6 +105,16 @@
       <file name="/Dummy.txt" timestamp="1558627715054">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/5_1.0_0.5_0.0_20.0_20.0" timestamp="1558639781630">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/7_0.3_0.5_0.0_20.0_20.0" timestamp="1558639786687">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/7_0.0_0.5_0.0_20.0_20.0" timestamp="1558639784046">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -140,6 +127,19 @@
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdRes.py" timestamp="1558186767562">
         <mark key="[" line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/9_0.7_0.5_0.0_20.0_20.0" timestamp="1558639800654">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/3_0.0_0.5_0.0_20.0_20.0" timestamp="1558639757502">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/DtsAnalysis (1)" timestamp="1558639831372">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/5_0.7_0.5_0.0_20.0_20.0" timestamp="1558639778718">
         <mark key="[" line="9" column="0" />
