@@ -83,9 +83,6 @@
         <mark key="." line="7" column="61" />
         <mark key="^" line="166" column="56" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/1-res.csv" timestamp="1558639997868">
-        <mark key="[" line="12" column="74" />
-      </file>
       <file name="/file-changer" timestamp="1554664365561">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,6 +106,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/LatexMappings.py" timestamp="1558848833936">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/7_0.3_0.5_0.0_20.0_20.0" timestamp="1558639786687">
         <mark key="[" line="9" column="0" />
@@ -138,7 +141,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/DtsAnalysis (1)" timestamp="1558848611727">
+      <file name="/DtsAnalysis (1)" timestamp="1558848836322">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/5_0.7_0.5_0.0_20.0_20.0" timestamp="1558639778718">
@@ -209,34 +212,34 @@
         <text encoding="base64">CiAgICAgICAgICAgICAgICBjdXN0b21fcHJpbnQoTGF0ZXhNYXBwaW5ncy5zZXJpZXNfbmFtZXNbJ212J10gKyAiLCIsIGZpbGVfdG9fd3JpdGUpCiAgICAgICAgICAgICAgICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgogICAgICAgICAgICAgICAgICAgIGN1c3RvbV9wcmludChyb3VuZF90b19zdHIoc3VtX2J5X2ZpbGVuYW1lW2ZpbGVuYW1lXSAvIGxlbihzZXJpZXgpLCAzKSArICIsIiwgZmlsZV90b193cml0ZSkKICAgICAgICAgICAgICAgIGN1c3RvbV9wcmludChyb3VuZF90b19zdHIocmFua2luZ3NfY21wW2NvdW50ZXJdLCAyKSArICJcbiIsIGZpbGVfdG9fd3JpdGUp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MC43Mzk0NDIwMTczNjA2NTYyLDIuMzEyNTc0NjUzNzM4MTQ4NiwwLjc0Mzg2NzQ4Mjk2NDkyNzIsMi40MDg5MDQ2MTU3MDUzNTU3Cg==</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MC43Mzc1MzA1NjQwNTIwNiwzLjM4NTMyMDc3Mzg5NjU5LDAuNzQwMjg3MjM1MTEwODU3MSwzLjIwNTUzODcxNzk5NzU3OAo=</text>
+        <text encoding="base64">ICAgIGR0c19zZXJpZXNfbmFtZXMgPSB7CiAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MC43MzY5ODAxMzA5ODI4MTY4LDUuMjMwMjM5MjA2MDk1NjA5LDAuNzM5OTU4MjQ2OTQ5NzkzOCw1LjI3NjEyMDgxOTA1OTEzMQo=</text>
+        <text encoding="base64">MC43Mzk0NDIwMTczNjA2NTYyLDIuMzEyNTc0NjUzNzM4MTQ4NiwwLjc0Mzg2NzQ4Mjk2NDkyNzIsMi40MDg5MDQ2MTU3MDUzNTU3Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MC43MzQ5MzIyNDM3NTAyMzI3LDEuODE3MDA3OTQxNjUwOTYyNiwwLjczNzUwNzkwNzI5NzEzMjgsMS44MjQxMTUxOTIwMTY0MTU0Cg==</text>
+        <text encoding="base64">MC43Mzc1MzA1NjQwNTIwNiwzLjM4NTMyMDc3Mzg5NjU5LDAuNzQwMjg3MjM1MTEwODU3MSwzLjIwNTUzODcxNzk5NzU3OAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MC43MzIxNjQ1OTg0NzQyNzAzLDQuMzg4NzM5NjQwODk2MDc1LDAuNzMzNDkzNTg1MDM4MjY0Niw1Ljk4NDI2MjIwNTg0MDIzOQo=</text>
+        <text encoding="base64">MC43MzY5ODAxMzA5ODI4MTY4LDUuMjMwMjM5MjA2MDk1NjA5LDAuNzM5OTU4MjQ2OTQ5NzkzOCw1LjI3NjEyMDgxOTA1OTEzMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MC43MjMzODU4MDg5NDI0MzMyLDMuNTc2ODI0NDgxMTIyNzcxNiwwLjcyNjIwMzM1NjQ0OTk4NTEsMy4xMzMyNTEwOTk2NjU1NDE2Cg==</text>
+        <text encoding="base64">MC43MzQ5MzIyNDM3NTAyMzI3LDEuODE3MDA3OTQxNjUwOTYyNiwwLjczNzUwNzkwNzI5NzEzMjgsMS44MjQxMTUxOTIwMTY0MTU0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MC43MzkwNDM2NDE1OTMyMzA5LDQuNTg5MjE2MDY5NDQ0MzA3LDAuNzQwOTEwNjU2ODI3OTQ2NSw1LjI2MjQ0MDkxNzY5NzkzMgo=</text>
+        <text encoding="base64">MC43MzIxNjQ1OTg0NzQyNzAzLDQuMzg4NzM5NjQwODk2MDc1LDAuNzMzNDkzNTg1MDM4MjY0Niw1Ljk4NDI2MjIwNTg0MDIzOQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MC43NDk3OTAyODIyNDQ5MzM4LDMuODkxMzgyMTc5MTYyODg5LDAuNzUwNTQ1OTEyNTMyNDU1LDQuNTQ5NTk0OTM5MTkwMTAyNQo=</text>
+        <text encoding="base64">MC43MjMzODU4MDg5NDI0MzMyLDMuNTc2ODI0NDgxMTIyNzcxNiwwLjcyNjIwMzM1NjQ0OTk4NTEsMy4xMzMyNTEwOTk2NjU1NDE2Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MC43NDA0MzE2ODE2MTM1OTQ3LDYuMjIxNzEwMTgzMDc3MjQ1LDAuNzQwMjY3ODAwNTU4MDM3LDYuNTQ0NDA4NTA5NjAwMTM3Cg==</text>
+        <text encoding="base64">MC43MzkwNDM2NDE1OTMyMzA5LDQuNTg5MjE2MDY5NDQ0MzA3LDAuNzQwOTEwNjU2ODI3OTQ2NSw1LjI2MjQ0MDkxNzY5NzkzMgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>alpha</text>
       </register>
     </registers>
     <search>
