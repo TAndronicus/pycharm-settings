@@ -83,6 +83,10 @@
         <mark key="." line="7" column="61" />
         <mark key="^" line="166" column="56" />
       </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/1-res.csv" timestamp="1558851281712">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="34" column="82" />
+      </file>
       <file name="/file-changer" timestamp="1554664365561">
         <mark key="[" line="0" column="0" />
       </file>
@@ -209,7 +213,12 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBjdXN0b21fcHJpbnQoTGF0ZXhNYXBwaW5ncy5zZXJpZXNfbmFtZXNbJ212J10gKyAiLCIsIGZpbGVfdG9fd3JpdGUpCiAgICAgICAgICAgICAgICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgogICAgICAgICAgICAgICAgICAgIGN1c3RvbV9wcmludChyb3VuZF90b19zdHIoc3VtX2J5X2ZpbGVuYW1lW2ZpbGVuYW1lXSAvIGxlbihzZXJpZXgpLCAzKSArICIsIiwgZmlsZV90b193cml0ZSkKICAgICAgICAgICAgICAgIGN1c3RvbV9wcmludChyb3VuZF90b19zdHIocmFua2luZ3NfY21wW2NvdW50ZXJdLCAyKSArICJcbiIsIGZpbGVfdG9fd3JpdGUp</text>
+        <text>,bi,bu,c,d,h,i,m,p,se,wd,wi,rank
+$\Psi_{0.0}$,0.397,0.158,0.562,0.795,0.151,0.518,0.496,-0.003,0.081,0.776,0.903,4.58
+$\Psi_{0.3}$,0.384,0.106,0.554,0.817,0.238,0.517,0.381,0.000,0.058,0.779,0.882,3.91
+$\Psi_{0.7}$,0.411,0.106,0.522,0.836,0.139,0.585,0.405,0.000,0.007,0.814,0.905,4.99
+$\Psi_{1.0}$,0.305,0.170,0.613,0.870,0.158,0.607,0.474,0.000,-0.001,0.808,0.880,5.26
+$\Psi_{mv}$,0.398,0.126,0.485,0.847,0.124,0.646,0.287,-0.005,0.005,0.781,0.874,3.51</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0KCg==</text>
