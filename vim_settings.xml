@@ -16,7 +16,7 @@
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/rate.py" timestamp="1546683650225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1558845137267">
+      <file name="/Python Console" timestamp="1564499760227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/3_1.0_0.5_0.0_20.0_20.0" timestamp="1558639765663">
@@ -42,7 +42,7 @@
       <file name="/so" timestamp="1556115759882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/DtdAnalysis" timestamp="1564425328742">
+      <file name="/DtdAnalysis" timestamp="1564500408557">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/5_0.0_0.5_0.0_20.0_20.0" timestamp="1558639769934">
@@ -53,8 +53,12 @@
       <file name="/DtAnalysis" timestamp="1564425296159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" timestamp="1564425176129">
-        <mark key="'" line="157" column="59" />
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" timestamp="1564500391737">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="138" column="25" />
+        <mark key="]" line="138" column="26" />
+        <mark key="^" line="11" column="41" />
+        <mark key="." line="138" column="26" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res.csv" timestamp="1564425347304">
         <mark key="'" line="143" column="0" />
@@ -85,6 +89,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/.gitignore" timestamp="1564500339116">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+      </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" timestamp="1558639827597">
         <mark key="'" line="4" column="38" />
         <mark key="[" line="7" column="61" />
@@ -113,7 +123,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564425317595">
+      <file name="/Dummy.txt" timestamp="1564500349054">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/5_1.0_0.5_0.0_20.0_20.0" timestamp="1558639781630">
@@ -223,6 +233,7 @@
       <jump line="157" column="59" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/1-res.csv" />
       <jump line="143" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res.csv" />
+      <jump line="121" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
