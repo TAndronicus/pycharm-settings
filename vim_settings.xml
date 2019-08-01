@@ -42,7 +42,7 @@
       <file name="/so" timestamp="1556115759882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/DtdAnalysis" timestamp="1564511443816">
+      <file name="/DtdAnalysis" timestamp="1564674943844">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/5_0.0_0.5_0.0_20.0_20.0" timestamp="1558639769934">
@@ -53,12 +53,12 @@
       <file name="/DtAnalysis" timestamp="1564425296159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" timestamp="1564511440255">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="120" column="19" />
-        <mark key="]" line="120" column="20" />
-        <mark key="^" line="146" column="68" />
-        <mark key="." line="120" column="20" />
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" timestamp="1564674941981">
+        <mark key="'" line="136" column="39" />
+        <mark key="[" line="157" column="90" />
+        <mark key="]" line="158" column="36" />
+        <mark key="^" line="158" column="36" />
+        <mark key="." line="158" column="36" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/7_0.7_0.5_0.0_20.0_20.0" timestamp="1558639790222">
         <mark key="[" line="9" column="0" />
@@ -86,11 +86,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/.gitignore" timestamp="1564500339116">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="5" column="4" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="5" column="4" />
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/.gitignore" timestamp="1564675061916">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="7" column="2" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" timestamp="1558639827597">
         <mark key="'" line="4" column="38" />
@@ -120,7 +120,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564514202179">
+      <file name="/Dummy.txt" timestamp="1564675078775">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/5_1.0_0.5_0.0_20.0_20.0" timestamp="1558639781630">
@@ -128,11 +128,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/LatexMappings.py" timestamp="1558848833936">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="12" column="37" />
-        <mark key="^" line="12" column="37" />
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/LatexMappings.py" timestamp="1564673940724">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/7_0.3_0.5_0.0_20.0_20.0" timestamp="1558639786687">
         <mark key="[" line="9" column="0" />
@@ -149,8 +149,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdRes.py" timestamp="1558186767562">
-        <mark key="[" line="0" column="8" />
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdRes.py" timestamp="1564673517895">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dt/dts/pre-tr/9_0.7_0.5_0.0_20.0_20.0" timestamp="1558639800654">
         <mark key="[" line="9" column="0" />
@@ -232,40 +235,41 @@
       <jump line="143" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res.csv" />
       <jump line="121" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
       <jump line="34" column="16" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res.csv" />
+      <jump line="126" column="39" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXN0b21fcHJpbnQocm91bmRfdG9fc3RyKHN1bV9ieV9maWxlbmFtZVtmaWxlbmFtZV0gLyBsZW4oc2VyaWV4KSwgMykgKyAiLCIsIGZpbGVfdG9fd3JpdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbV9wcmludChyb3VuZF90b19zdHIocmFua2luZ3NfY21wW2NvdW50ZXJdLCAyKSArICJcbiIsIGZpbGVfdG9fd3JpdGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIGZvciBmaWxlbmFtZSBpbiBmaWxlbmFtZXM6CiAgICAgICAgICAgICAgICAgICAgY3VzdG9tX3ByaW50KHJvdW5kX3RvX3N0cihzdW1fYnlfZmlsZW5hbWVbZmlsZW5hbWVdIC8gbGVuKHNlcmlleCksIDMpICsgIiwiLCBmaWxlX3RvX3dyaXRlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3VtX2J5X2ZpbGVuYW1lW2ZpbGVuYW1lXSA9IHN1bV9ieV9maWxlbmFtZVtmaWxlbmFtZV0gKyBnZXRhdHRyKG9iaiwgIm12XyIgKyBtZWFzKQo=</text>
+        <text encoding="base64">ICAgIHJlc19vdXQuYXBwZW5kKGdldF9hdmVyYWdlX3JlZmVyZW5jZShuX2ZlYSwgYXR0ciwgbl9jbGYpWzBdKQogICAgcmVzX291dC5hcHBlbmQoWzFdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1bV9ieV9maWxlbmFtZSA9IGluaXRpYWxpemVfc3Vtc19ieV9maWxlbmFtZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ZXIgPSBjb3VudGVyICsgMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGluaXRpYWxpemVfc3Vtc19ieV9maWxlbmFtZXMoKToKICAgIHJlcyA9IHt9CiAgICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgogICAgICAgIHJlc1tmaWxlbmFtZV0gPSAwCiAgICByZXR1cm4gcmVzCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIGZvciBmaWxlbmFtZSBpbiBmaWxlbmFtZXM6CiAgICAgICAgICAgICAgICAgICAgY3VzdG9tX3ByaW50KHJvdW5kX3RvX3N0cihzdW1fYnlfZmlsZW5hbWVbZmlsZW5hbWVdIC8gbGVuKHNlcmlleCksIDMpICsgIiwiLCBmaWxlX3RvX3dyaXRlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHByaW50X3N0YXRzX25fY2xmKCk6CiAgICBkZXBlbmRlbnRfZGltID0gZGltc1swXQogICAgZm9yIHNlcmllcyBpbiBzZXJpZXg6CiAgICAgICAgcHJpbnQoc2VyaWVzKQogICAgICAgIGZvciBtZWFzIGluIFsiYWNjIiwgIm1jYyJdOgogICAgICAgICAgICBwcmludChtZWFzKQogICAgICAgICAgICBvYmpzID0gZ2V0X2RlcGVuZGVudF9vbihkZXBlbmRlbnRfZGltLCA3LCAyLCA2MCwgc2VyaWVzKQogICAgICAgICAgICBvYmpzID0gbWFwX2R0cmV4KG9ianMsIG1lYXMpCiAgICAgICAgICAgIGltYW5fZGF2ZW5wb3J0LCBwX3ZhbHVlLCByYW5raW5nc19hdmcsIHJhbmtpbmdzX2NtcCA9IGZyaWVkbWFuX3Rlc3Qob2JqcykKICAgICAgICAgICAgcmFua2luZ3MgPSBjcmVhdGVfcmFua19kaWN0KHJhbmtpbmdzX2NtcCkKICAgICAgICAgICAgcHJpbnQoInJhbmtzOiAiICsgc3RyKHJhbmtpbmdzX2NtcCkpCiAgICAgICAgICAgIGNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gYm9uZmVycm9uaV9kdW5uX3Rlc3QocmFua2luZ3MsIHN0cihsZW4ocmFua2luZ3MpIC0gMSkpCiAgICAgICAgICAgIHBIID0gW3ggZm9yIF8sIHggaW4gc29ydGVkKHppcChjb21wYXJpc29uc0gsIHBIKSldCiAgICAgICAgICAgIHByaW50KCJwLXZhbHVlczogIiArIHN0cihwSCkpCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3VtX2J5X2ZpbGVuYW1lW2ZpbGVuYW1lXSA9IHN1bV9ieV9maWxlbmFtZVtmaWxlbmFtZV0gKyBnZXRhdHRyKG9iaiwgIm12XyIgKyBtZWFzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1bV9ieV9maWxlbmFtZSA9IGluaXRpYWxpemVfc3Vtc19ieV9maWxlbmFtZXMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGR0c19zZXJpZXNfbmFtZXMgPSB7CiAgICAgICAgCg==</text>
+        <text encoding="base64">ZGVmIGluaXRpYWxpemVfc3Vtc19ieV9maWxlbmFtZXMoKToKICAgIHJlcyA9IHt9CiAgICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgogICAgICAgIHJlc1tmaWxlbmFtZV0gPSAwCiAgICByZXR1cm4gcmVzCgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MC43Mzk0NDIwMTczNjA2NTYyLDIuMzEyNTc0NjUzNzM4MTQ4NiwwLjc0Mzg2NzQ4Mjk2NDkyNzIsMi40MDg5MDQ2MTU3MDUzNTU3Cg==</text>
+        <text encoding="base64">ZGVmIHByaW50X3N0YXRzX25fY2xmKCk6CiAgICBkZXBlbmRlbnRfZGltID0gZGltc1swXQogICAgZm9yIHNlcmllcyBpbiBzZXJpZXg6CiAgICAgICAgcHJpbnQoc2VyaWVzKQogICAgICAgIGZvciBtZWFzIGluIFsiYWNjIiwgIm1jYyJdOgogICAgICAgICAgICBwcmludChtZWFzKQogICAgICAgICAgICBvYmpzID0gZ2V0X2RlcGVuZGVudF9vbihkZXBlbmRlbnRfZGltLCA3LCAyLCA2MCwgc2VyaWVzKQogICAgICAgICAgICBvYmpzID0gbWFwX2R0cmV4KG9ianMsIG1lYXMpCiAgICAgICAgICAgIGltYW5fZGF2ZW5wb3J0LCBwX3ZhbHVlLCByYW5raW5nc19hdmcsIHJhbmtpbmdzX2NtcCA9IGZyaWVkbWFuX3Rlc3Qob2JqcykKICAgICAgICAgICAgcmFua2luZ3MgPSBjcmVhdGVfcmFua19kaWN0KHJhbmtpbmdzX2NtcCkKICAgICAgICAgICAgcHJpbnQoInJhbmtzOiAiICsgc3RyKHJhbmtpbmdzX2NtcCkpCiAgICAgICAgICAgIGNvbXBhcmlzb25zSCwgeiwgcEgsIGFkal9wID0gYm9uZmVycm9uaV9kdW5uX3Rlc3QocmFua2luZ3MsIHN0cihsZW4ocmFua2luZ3MpIC0gMSkpCiAgICAgICAgICAgIHBIID0gW3ggZm9yIF8sIHggaW4gc29ydGVkKHppcChjb21wYXJpc29uc0gsIHBIKSldCiAgICAgICAgICAgIHByaW50KCJwLXZhbHVlczogIiArIHN0cihwSCkpCgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MC43Mzc1MzA1NjQwNTIwNiwzLjM4NTMyMDc3Mzg5NjU5LDAuNzQwMjg3MjM1MTEwODU3MSwzLjIwNTUzODcxNzk5NzU3OAo=</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>filename</text>
+        <text>get_average_reference(n_fea, attr, n_clf)</text>
       </register>
     </registers>
     <search>
