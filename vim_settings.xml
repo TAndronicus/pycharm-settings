@@ -92,11 +92,11 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" timestamp="1558639827597">
+      <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" timestamp="1564680192335">
         <mark key="'" line="4" column="38" />
-        <mark key="[" line="7" column="61" />
-        <mark key="]" line="7" column="61" />
-        <mark key="." line="7" column="61" />
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
         <mark key="^" line="166" column="56" />
       </file>
       <file name="$USER_HOME$/Workspace/Python/classifier-integration-analysis/1-res.csv" timestamp="1564425286928">
@@ -269,7 +269,7 @@
         <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>get_average_reference(n_fea, attr, n_clf)</text>
+        <text>dt/</text>
       </register>
     </registers>
     <search>
