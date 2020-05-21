@@ -1,6 +1,16 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
@@ -42,7 +52,233 @@
         <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1584991538407">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590068661330">
+        <mark key="'" line="281" column="29" />
+      </file>
+      <file name="/Python Console" timestamp="1584758344499">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1584290203263">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchCsvAggregator.py" timestamp="1584287915119">
+        <mark key="'" line="62" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchAnalysis.py" timestamp="1584765681282">
+        <mark key="'" line="118" column="32" />
+        <mark key="[" line="157" column="46" />
+        <mark key="]" line="157" column="46" />
+        <mark key="." line="157" column="46" />
+        <mark key="^" line="157" column="57" />
+      </file>
+      <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchRes.py" timestamp="1584762373125">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="52" />
+        <mark key="^" line="8" column="52" />
+        <mark key="." line="8" column="52" />
+      </file>
+      <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/try.py" timestamp="1582992413436">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="8" column="20" />
+      </file>
+      <file name="/DtsBatchAnalysis" timestamp="1584765618191">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/playground" timestamp="1584764998128">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/stats2.ipynb" timestamp="1584991379464">
+        <mark key="e" line="40" column="96" />
+        <mark key="'" line="22" column="30" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="/stats.ipynb" timestamp="1584287771027">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/playground.py" timestamp="1584764825675">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/dtd-batch/5_2_[20_40_60]" timestamp="1584287574001">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/try" timestamp="1582992386394">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/reports/1-batch.csv" timestamp="1584772854436">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="78" column="82" />
+      </file>
+      <file name="/stats1.ipynb" timestamp="1584396190105">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="30" column="17" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassificationAnalysis.py" />
+      <jump line="230" column="21" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
+      <jump line="50" column="20" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
+      <jump line="16" column="26" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
+      <jump line="293" column="7" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
+      <jump line="184" column="32" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
+      <jump line="353" column="52" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/ClassificationAnalysis.py" />
+      <jump line="14" column="18" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
+      <jump line="5" column="8" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtRes.py" />
+      <jump line="9" column="63" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
+      <jump line="81" column="39" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
+      <jump line="88" column="15" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
+      <jump line="12" column="38" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
+      <jump line="82" column="39" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
+      <jump line="75" column="29" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="2" column="21" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="7" column="21" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="5" column="46" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="115" column="21" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="139" column="31" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="6" column="32" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
+      <jump line="121" column="43" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
+      <jump line="117" column="59" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="171" column="26" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="118" column="56" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
+      <jump line="92" column="18" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtAnalysis.py" />
+      <jump line="10" column="20" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/bug.py" />
+      <jump line="156" column="12" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="81" column="24" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res.csv" />
+      <jump line="83" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="112" column="54" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="136" column="25" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="145" column="4" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="36" column="16" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="4" column="38" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="241" column="13" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
+      <jump line="157" column="59" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/1-res.csv" />
+      <jump line="143" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res.csv" />
+      <jump line="121" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="34" column="16" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res.csv" />
+      <jump line="126" column="39" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="66" column="16" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/dtd-vis.py" />
+      <jump line="158" column="36" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="145" column="55" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="174" column="4" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="161" column="70" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="55" column="36" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res.csv" />
+      <jump line="9" column="35" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="52" column="34" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res.csv" />
+      <jump line="39" column="23" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res.csv" />
+      <jump line="1" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res-20-shallow.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/2-res-20-deep.csv" />
+      <jump line="87" column="0" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="128" column="0" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdBatchAnalysis.py" />
+      <jump line="92" column="0" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdBatchAnalysis.py" />
+      <jump line="153" column="71" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdBatchAnalysis.py" />
+      <jump line="172" column="4" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdBatchAnalysis.py" />
+      <jump line="42" column="12" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdBatchAnalysis.py" />
+      <jump line="87" column="38" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdBatchAnalysis.py" />
+      <jump line="31" column="53" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdBatchAnalysis.py" />
+      <jump line="79" column="0" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
+      <jump line="22" column="17" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/FileMerger.py" />
+      <jump line="64" column="0" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdBatchAnalysis.py" />
+      <jump line="35" column="0" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdBatchAnalysis.py" />
+      <jump line="101" column="64" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdBatchAnalysis.py" />
+      <jump line="57" column="7" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdBatchAnalysis.py" />
+      <jump line="168" column="0" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="0" column="0" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/reports/1-res.csv" />
+      <jump line="48" column="23" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="30" column="24" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchAnalysis.py" />
+      <jump line="43" column="21" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchAnalysis.py" />
+      <jump line="21" column="39" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="140" column="33" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="79" column="26" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchAnalysis.py" />
+      <jump line="80" column="14" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchAnalysis.py" />
+      <jump line="6" column="0" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsAnalysis.py" />
+      <jump line="142" column="19" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchAnalysis.py" />
+      <jump line="33" column="36" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdDisplacementAnalysis.py" />
+      <jump line="59" column="103" filename="/dabbling.ipynb" />
+      <jump line="1" column="0" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/ClfPlot.py" />
+      <jump line="0" column="0" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/dtd-batch/5_2_[20_40_60]" />
+      <jump line="62" column="0" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchCsvAggregator.py" />
+      <jump line="22" column="30" filename="/stats2.ipynb" />
+      <jump line="62" column="0" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/reports/1-batch.csv" />
+      <jump line="117" column="75" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchAnalysis.py" />
+      <jump line="0" column="0" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchAnalysis.py" />
+      <jump line="44" column="4" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchAnalysis.py" />
+      <jump line="103" column="0" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchAnalysis.py" />
+      <jump line="118" column="32" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchAnalysis.py" />
+      <jump line="2" column="0" filename="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" />
+      <jump line="281" column="29" filename="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="4">
+        <text encoding="base64">CnkxID0gbnAuZXhwKG5wLnBvd2VyKGFyIC0gLjUsIDIpICogKC0yMCkp</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">W3ByaW50KGVsKSBmb3IgZWwgaW4gbWVhbl9yYW5rcy5yb3VuZCgyKS52YWx1ZXNdCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CnByaW50KG1lYW5fcmFua3MuaGVhZCk=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBmb3IgbWVhcyBpbiBbJ2FjYycsICdtY2MnXToKIyAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGdhbW1hczEpKToKIyAgICAgICAgIHdpdGggb3BlbignY3N2LycgKyBtZWFzICsgJ18nICsgZ2FtbWFzMVtpXSArICdfJyArIGdhbW1hczJbaV0gKyAnLmNzdicsICd3JykgYXMgZjoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGZpbHRlcl9ieV9nYW1tYShvYmpzLCBnYW1tYV9wZXJtdXRhdGlvbik6CiAgICBmb3Igb2JqIGluIG9ianM6CiAgICAgICAgaWYgKG9iai5nYW1tYTEgPT0gZ2FtbWFzMVtnYW1tYV9wZXJtdXRhdGlvbl0KICAgICAgICAgICAgICAgIGFuZCBvYmouZ2FtbWEyID09IGdhbW1hczJbZ2FtbWFfcGVybXV0YXRpb25dKToKICAgICAgICAgICAgeWllbGQgb2JqCgoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBvYmpzID0gW10K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgb2JqcyA9IFtdCiAgICAgICAgZm9yIGFscGhhIGluIGFscGhhczoKICAgICAgICAgICAgb2Jqcy5hcHBlbmQocmVhZChuX2NsZiwgYWxwaGEsIGRlZl9zZXJpZXMpKQogICAgICAgIHJlZl92YWx1ZXMgPSBtYXBfZHRyZXgob2JqcywgbWVhcykgIyBUT0RPOiB1c2U=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgZm9yIGFscGhhIGluIGFscGhhczoKICAgICAgICAgICAgb2Jqcy5hcHBlbmQocmVhZChuX2NsZiwgYWxwaGEsIGRlZl9zZXJpZXMpKQogICAgICAgIHJlZl92YWx1ZXMgPSBtYXBfZHRyZXgob2JqcywgbWVhcyk=</text>
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>2</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>true</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="true" />
