@@ -61,11 +61,10 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590106355812">
-        <mark key="'" line="276" column="29" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590108003566">
+        <mark key="'" line="280" column="29" />
+        <mark key="[" line="393" column="0" />
+        <mark key="]" line="63" column="0" />
       </file>
       <file name="/Python Console" timestamp="1584758344499">
         <mark key="[" line="0" column="0" />
@@ -240,34 +239,34 @@
         <text encoding="base64">CnkxID0gbnAuZXhwKG5wLnBvd2VyKGFyIC0gLjUsIDIpICogKC0yMCkp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyUlCgpmb3IgcCBpbiBbbnAsIHBkLCBza2xlYXJuLCBsZ2JdOgogICAgcHJpbnQgKHAuX19uYW1lX18sIHAuX192ZXJzaW9uX18pCgo=</text>
+        <text>sales.head()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">IyUlCgpmb3IgcCBpbiBbbnAsIHBkLCBza2xlYXJuLCBsZ2JdOgogICAgcHJpbnQgKHAuX19uYW1lX18sIHAuX192ZXJzaW9uX18pCgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">W3ByaW50KGVsKSBmb3IgZWwgaW4gbWVhbl9yYW5rcy5yb3VuZCgyKS52YWx1ZXNdCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CnByaW50KG1lYW5fcmFua3MuaGVhZCk=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IyBmb3IgbWVhcyBpbiBbJ2FjYycsICdtY2MnXToKIyAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGdhbW1hczEpKToKIyAgICAgICAgIHdpdGggb3BlbignY3N2LycgKyBtZWFzICsgJ18nICsgZ2FtbWFzMVtpXSArICdfJyArIGdhbW1hczJbaV0gKyAnLmNzdicsICd3JykgYXMgZjoK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZGVmIGZpbHRlcl9ieV9nYW1tYShvYmpzLCBnYW1tYV9wZXJtdXRhdGlvbik6CiAgICBmb3Igb2JqIGluIG9ianM6CiAgICAgICAgaWYgKG9iai5nYW1tYTEgPT0gZ2FtbWFzMVtnYW1tYV9wZXJtdXRhdGlvbl0KICAgICAgICAgICAgICAgIGFuZCBvYmouZ2FtbWEyID09IGdhbW1hczJbZ2FtbWFfcGVybXV0YXRpb25dKToKICAgICAgICAgICAgeWllbGQgb2JqCgoK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBvYmpzID0gW10K</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgb2JqcyA9IFtdCiAgICAgICAgZm9yIGFscGhhIGluIGFscGhhczoKICAgICAgICAgICAgb2Jqcy5hcHBlbmQocmVhZChuX2NsZiwgYWxwaGEsIGRlZl9zZXJpZXMpKQogICAgICAgIHJlZl92YWx1ZXMgPSBtYXBfZHRyZXgob2JqcywgbWVhcykgIyBUT0RPOiB1c2U=</text>
-      </register>
       <register name="*" type="2">
-        <text encoding="base64">IyUlCgpmb3IgcCBpbiBbbnAsIHBkLCBza2xlYXJuLCBsZ2JdOgogICAgcHJpbnQgKHAuX19uYW1lX18sIHAuX192ZXJzaW9uX18pCgo=</text>
+        <text>sales.head()</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
