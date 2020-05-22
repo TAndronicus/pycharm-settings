@@ -61,10 +61,10 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590110191276">
+      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590110266232">
         <mark key="'" line="256" column="29" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="30" column="8" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="56" column="42" />
         <mark key="." line="152" column="0" />
       </file>
       <file name="/Python Console" timestamp="1584758344499">
@@ -237,27 +237,12 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="4">
-        <text>import warnings
-warnings.filterwarnings('ignore')
-
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from itertools import product
-from tqdm import tqdm, tqdm_notebook
-from sklearn.model_selection import train_test_split
-
-import sklearn
-import lightgbm as lgb
-from xgboost import XGBRegressor
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import r2_score
-
-import tensorflow as tf
-import keras
-import pickle
-import gc</text>
+        <text>sales = pd.read_csv('Dataset/sales_train_v2.csv')
+shops = pd.read_csv('Dataset/shops.csv')
+items = pd.read_csv('Dataset/items.csv')
+items_categories = pd.read_csv('Dataset/item_categories.csv')
+sample_submission = pd.read_csv('Dataset/sample_submission.csv')
+test_data = pd.read_csv('Dataset/test.csv')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyUlIG1kCgotIFRoZSBjb3JyZWxhdGlvbiBpcyAwLjczNQoK</text>
@@ -287,27 +272,12 @@ import gc</text>
         <text encoding="base64">W3ByaW50KGVsKSBmb3IgZWwgaW4gbWVhbl9yYW5rcy5yb3VuZCgyKS52YWx1ZXNdCg==</text>
       </register>
       <register name="*" type="4">
-        <text>import warnings
-warnings.filterwarnings('ignore')
-
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from itertools import product
-from tqdm import tqdm, tqdm_notebook
-from sklearn.model_selection import train_test_split
-
-import sklearn
-import lightgbm as lgb
-from xgboost import XGBRegressor
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import r2_score
-
-import tensorflow as tf
-import keras
-import pickle
-import gc</text>
+        <text>sales = pd.read_csv('Dataset/sales_train_v2.csv')
+shops = pd.read_csv('Dataset/shops.csv')
+items = pd.read_csv('Dataset/items.csv')
+items_categories = pd.read_csv('Dataset/item_categories.csv')
+sample_submission = pd.read_csv('Dataset/sample_submission.csv')
+test_data = pd.read_csv('Dataset/test.csv')</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
