@@ -61,11 +61,11 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590112329011">
-        <mark key="'" line="256" column="29" />
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="1" />
-        <mark key="." line="2" column="1" />
+      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590112817347">
+        <mark key="'" line="253" column="29" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="/Python Console" timestamp="1584758344499">
         <mark key="[" line="0" column="0" />
@@ -237,43 +237,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="4">
-        <text>test_block = sales['date_block_num'].max() + 1
-test_data['date_block_num'] = test_block
-test_data = test_data.drop(columns=['ID'])
-test_data.head()</text>
+        <text>popular_shops</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyUlIG1kCgotIFRoZSBjb3JyZWxhdGlvbiBpcyAwLjczNQoK</text>
+        <text encoding="base64">IyUlCgojYmVzdF9zZWxsaW5nX3Nob3BzID0gYmVzdF9zZWxsaW5nX3Nob3BzLnNvcnRfdmFsdWVzKGFzY2VuZGluZz1GYWxzZSlbOjE1XQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyUlIG1kCgotIEF0IHRoZSBlbmQsIHRoZSBudW1iZXIgb2YgaXRlbXMgc29sZCBhcmUgZGVjcmVhc2luZy4KLSBUaGUgaGlnaGVzdCBudW1iZXIgb2YgaXRlbXMgdGhhdCBhcmUgc29sZCBpbiAxMXRoIG1vbnRoLgoK</text>
+        <text encoding="base64">IyUlCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyUlIG1kCgotICIyMDk0OSIgaXMgdGhlIGl0ZW0gdGhhdCB3YXMgc29sZCBtb3JlIG51bWJlciBvZiBpdGVtcyBpbiB0aGUgbGFzdCAzMyBtb250aHMuCgo=</text>
+        <text encoding="base64">aXRlbXNfcGVyX2NhdGVnb3J5ID0gaXRlbXMuaXRlbV9jYXRlZ29yeV9pZC52YWx1ZV9jb3VudHMoKS5pbG9jWzoxNV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyUlIG1kCgotICIzMSIgaXMgdGhlIHNob3AgdGhhdCBzb2xkIG1vcmUgbnVtYmVyIG9mIGl0ZW1zIGluIHRoZSBsYXN0IDMzIG1vbnRocy4KCg==</text>
+        <text encoding="base64">YmVzdF9zZWxsaW5nX3Nob3BzID0gc2FsZXMuZ3JvdXBieSgnc2hvcF9pZCcpWydpdGVtX2NudF9kYXknXS5zdW0oKVs6MTVdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyUlCgojeF9yYXdfdHJhaW4sIFhfcmF3X3Rlc3QsIHlfcmF3X3RyYWluLCB5X3Jhd190ZXN0ID0gdHJhaW5fdGVzdF9zcGxpdCgpCiNsciA9IExpbmVhclJlZ3Jlc3Npb24oKQojbHIuZml0KCkKc2FsZXMuaGVhZCgpCgo=</text>
+        <text encoding="base64">cGx0LnRpdGxlKCJQb3B1bGFyIHNob3BzIikK</text>
       </register>
       <register name="6" type="2">
-        <text>sales.head()</text>
+        <text encoding="base64">cGx0LnRpdGxlKCIjIGl0ZW1zIHBlciBjYXRlZ29yeSIpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyUlCgpmb3IgcCBpbiBbbnAsIHBkLCBza2xlYXJuLCBsZ2JdOgogICAgcHJpbnQgKHAuX19uYW1lX18sIHAuX192ZXJzaW9uX18pCgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiNpdGVtc19wZXJfY2F0ZWdvcnkgPSBpdGVtc19wZXJfY2F0ZWdvcnkjLnNvcnRfaW5kZXgoc29ydF9yZW1haW5pbmc9VHJ1ZSk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">IyMgRXhwbG9yYXRvcnkgRGF0YSBBbmFseXNpcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W3ByaW50KGVsKSBmb3IgZWwgaW4gbWVhbl9yYW5rcy5yb3VuZCgyKS52YWx1ZXNdCg==</text>
+        <text encoding="base64">IyUlIG1kCgotIFRoZSBjb3JyZWxhdGlvbiBpcyAwLjczNQoK</text>
       </register>
-      <register name="*" type="4">
-        <text>#</text>
+      <register name="*" type="2">
+        <text encoding="base64">IyUlCgojYmVzdF9zZWxsaW5nX3Nob3BzID0gYmVzdF9zZWxsaW5nX3Nob3BzLnNvcnRfdmFsdWVzKGFzY2VuZGluZz1GYWxzZSlbOjE1XQoK</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>Count</text>
       </register>
     </registers>
   </component>
