@@ -61,11 +61,12 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590136879096">
-        <mark key="'" line="254" column="29" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590432762938">
+        <mark key="'" line="260" column="29" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="80" column="7" />
       </file>
       <file name="/Python Console" timestamp="1584758344499">
         <mark key="[" line="0" column="0" />
@@ -266,11 +267,11 @@
       <register name="9" type="2">
         <text encoding="base64">IyUlIG1kCgotIFRoZSBjb3JyZWxhdGlvbiBpcyAwLjczNQoK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">IyUlCgojYmVzdF9zZWxsaW5nX3Nob3BzID0gYmVzdF9zZWxsaW5nX3Nob3BzLnNvcnRfdmFsdWVzKGFzY2VuZGluZz1GYWxzZSlbOjE1XQoK</text>
+      <register name="*" type="4">
+        <text>sns.barplot</text>
       </register>
       <register name="-" type="4">
-        <text>Count</text>
+        <text>sns.barplot</text>
       </register>
     </registers>
   </component>
