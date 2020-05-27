@@ -61,12 +61,11 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590606446361">
-        <mark key="'" line="226" column="29" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
-        <mark key="^" line="179" column="6" />
+      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590608112967">
+        <mark key="'" line="194" column="29" />
+        <mark key="[" line="158" column="43" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="/Python Console" timestamp="1590599536262">
         <mark key="[" line="0" column="0" />
@@ -238,40 +237,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">CmNvdW50X2FnZ3JlZ2F0ZSA9IHRyYWluX2FsbC5ncm91cGJ5KFsnZGF0ZV9ibG9ja19udW0nLCAnc2hvcF9pZCcsICdpdGVtX2lkJ10sIGFzX2luZGV4PUZhbHNlKVsnaXRlbV9jbnRfZGF5J10uc3VtKCkKY291bnRfYWdncmVnYXRlID0gY291bnRfYWdncmVnYXRlLnJlbmFtZShjb2x1bW5zPXsnaXRlbV9jbnRfZGF5JzogJ21lYW5fY250X2Ficyd9KQp0cmFpbl9hbGwgPSBwZC5tZXJnZSh0cmFpbl9hbGwsIGNvdW50X2FnZ3JlZ2F0ZSwgaG93PSdsZWZ0Jywgb249aW5kZXhfY29scykuZmlsbG5hKDApCnRyYWluX2FsbC5oZWFkKCk=</text>
+        <text>date_block_num_rel</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CnByaW50cw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y291bnRfYWdncmVnYXRlLmhlYWQoKQo=</text>
+        <text encoding="base64">cHJpbnQodGVzdF9ibG9ja19yZWwpCnByaW50KGludCh0ZXN0X2Jsb2NrIC8gMTIpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBHcm91cGJ5IGRhdGEgdG8gZ2V0IHNob3AtaXRlbS1tb250aCBhZ2dyZWdhdGVzCg==</text>
+        <text encoding="base64">IyUlCgphbGxfZGF0YS5oZWFkKCkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQodHJhaW5fYWxsLmNvbHVtbnMpCg==</text>
+        <text encoding="base64">IyUlIG1kCgojIyMgSW1wb3J0IGxpYnJhcmllcwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiMgU2FtZSBhcyBhYm92ZSBidXQgd2l0aCBzaG9wLW1vbnRoIGFnZ3JlZ2F0ZXMKZ2IgPSBzYWxlcy5ncm91cGJ5KFsnc2hvcF9pZCcsICdkYXRlX2Jsb2NrX251bSddLCBhc19pbmRleD1GYWxzZSlbJ2l0ZW1fY250X2RheSddLnN1bSgpCmdiID0gZ2IucmVuYW1lKGNvbHVtbnM9eydpdGVtX2NudF9kYXknOiAndGFyZ2V0X3Nob3AnfSkKYWxsX2RhdGEgPSBwZC5tZXJnZShhbGxfZGF0YSwgZ2IsIGhvdz0nbGVmdCcsIG9uPVsnc2hvcF9pZCcsICdkYXRlX2Jsb2NrX251bSddKS5maWxsbmEoMCkKCiMgU2FtZSBhcyBhYm92ZSBidXQgd2l0aCBpdGVtLW1vbnRoIGFnZ3JlZ2F0ZXMKZ2IgPSBzYWxlcy5ncm91cGJ5KFsnaXRlbV9pZCcsICdkYXRlX2Jsb2NrX251bSddLCBhc19pbmRleD1GYWxzZSlbJ2l0ZW1fY250X2RheSddLnN1bSgpCmdiID0gZ2IucmVuYW1lKGNvbHVtbnM9eydpdGVtX2NudF9kYXknOiAndGFyZ2V0X2l0ZW0nfSkKYWxsX2RhdGEgPSBwZC5tZXJnZShhbGxfZGF0YSwgZ2IsIGhvdz0nbGVmdCcsIG9uPVsnaXRlbV9pZCcsICdkYXRlX2Jsb2NrX251bSddKS5maWxsbmEoMCkK</text>
+        <text encoding="base64">IyUlIG1kCgojIyMgQ3JlYXRlIGZlYXR1cmVzIHVzaW5nIHByZXZpb3VzIG1vbnRocyBkYXRhIC0gRGlmZmVyZW50IGxhZ3MKCiMlJQoKIyBMaXN0IG9mIGNvbHVtbnMgdGhhdCB3ZSB3aWxsIHVzZSB0byBjcmVhdGUgbGFncwojIGNvbHNfdG9fcmVuYW1lID0gbGlzdChhbGxfZGF0YS5jb2x1bW5zLmRpZmZlcmVuY2UoaW5kZXhfY29scykpCnNoaWZ0X3JhbmdlID0gWzEsIDIsIDMsIDQsIDUsIDEyXQojCiMgZm9yIG1vbnRoX3NoaWZ0IGluIHRxZG1fbm90ZWJvb2soc2hpZnRfcmFuZ2UpOgojICAgICB0cmFpbl9zaGlmdCA9IGFsbF9kYXRhW2luZGV4X2NvbHMgKyBjb2xzX3RvX3JlbmFtZV0uY29weSgpCiMgICAgIHRyYWluX3NoaWZ0WydkYXRlX2Jsb2NrX251bSddID0gdHJhaW5fc2hpZnRbJ2RhdGVfYmxvY2tfbnVtJ10gKyBtb250aF9zaGlmdAojCiMgICAgIGZvbyA9IGxhbWJkYSB4OiAne31fbGFnX3t9Jy5mb3JtYXQoeCwgbW9udGhfc2hpZnQpIGlmIHggaW4gY29sc190b19yZW5hbWUgZWxzZSB4CiMgICAgIHRyYWluX3NoaWZ0ID0gdHJhaW5fc2hpZnQucmVuYW1lKGNvbHVtbnM9Zm9vKQojCiMgICAgIGFsbF9kYXRhID0gcGQubWVyZ2UoYWxsX2RhdGEsIHRyYWluX3NoaWZ0LCBvbj1pbmRleF9jb2xzLCBob3c9J2xlZnQnKS5maWxsbmEoMCkKIwojIGRlbCB0cmFpbl9zaGlmdAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyUlCgo=</text>
+        <text encoding="base64">IyUlCgphbGxfZGF0YS5oZWFkKCkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3JpZC5oZWFkKCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyUlCgojIENyZWF0ZSAiZ3JpZCIgd2l0aCBjb2x1bW5zCmluZGV4X2NvbHMgPSBbJ3Nob3BfaWQnLCAnaXRlbV9pZCcsICdkYXRlX2Jsb2NrX251bSddCgojIEZvciBldmVyeSBtb250aCB3ZSBjcmVhdGUgYSBncmlkIGZyb20gYWxsIHNob3BzL2l0ZW1zIGNvbWJpbmF0aW9ucyBmcm9tIHRoYXQgbW9udGgKZ3JpZCA9IFtdCmZvciBibG9ja19udW0gaW4gc2FsZXNbJ2RhdGVfYmxvY2tfbnVtJ10udW5pcXVlKCk6CiAgICBjdXJfc2hvcHMgPSBzYWxlcy5sb2Nbc2FsZXNbJ2RhdGVfYmxvY2tfbnVtJ10gPT0gYmxvY2tfbnVtLCAnc2hvcF9pZCddLnVuaXF1ZSgpCiAgICBjdXJfaXRlbXMgPSBzYWxlcy5sb2Nbc2FsZXNbJ2RhdGVfYmxvY2tfbnVtJ10gPT0gYmxvY2tfbnVtLCAnaXRlbV9pZCddLnVuaXF1ZSgpCiAgICBncmlkLmFwcGVuZChucC5hcnJheShsaXN0KHByb2R1Y3QoKltjdXJfc2hvcHMsIGN1cl9pdGVtcywgW2Jsb2NrX251bV1dKSksZHR5cGU9J2ludDMyJykpCgpncmlkID0gcGQuRGF0YUZyYW1lKG5wLnZzdGFjayhncmlkKSwgY29sdW1ucyA9IGluZGV4X2NvbHMsIGR0eXBlPW5wLmludDMyKQpncmlkID0gcGQuY29uY2F0KFtncmlkLCB0ZXN0X2RhdGFdKQoKZ3JpZCA9IHNhbGVzLmpvaW4oc2hvcHMuc2V0X2luZGV4KCdzaG9wX2lkJyksIG9uPSdzaG9wX2lkJykuam9pbihpdGVtcy5zZXRfaW5kZXgoJ2l0ZW1faWQnKSwgb249J2l0ZW1faWQnKS5qb2luKGl0ZW1zX2NhdGVnb3JpZXMuc2V0X2luZGV4KCdpdGVtX2NhdGVnb3J5X2lkJyksIG9uPSdpdGVtX2NhdGVnb3J5X2lkJykKCmdyaWQuaGVhZCgpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiMlJQp0cmFpbl9hbGxbWydkYXRlX2Jsb2NrX251bScsICdkYXRlX2Jsb2NrX251bV9yZWwnXV0uaGVhZCgyMDAwMDAwKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="*" type="4">
-        <text>count_aggregate</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>count_aggregate</text>
+        <text>#</text>
       </register>
     </registers>
   </component>
