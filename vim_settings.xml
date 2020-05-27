@@ -61,11 +61,11 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590602003664">
+      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590602701896">
         <mark key="'" line="241" column="29" />
-        <mark key="[" line="166" column="92" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
+        <mark key="[" line="173" column="4" />
+        <mark key="]" line="173" column="4" />
+        <mark key="." line="173" column="4" />
       </file>
       <file name="/Python Console" timestamp="1590599536262">
         <mark key="[" line="0" column="0" />
@@ -266,11 +266,11 @@
       <register name="9" type="2">
         <text encoding="base64">cGx0LnBsb3QK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">IyUlCgphbGxfZGF0YS5oZWFkKCkKCg==</text>
+      <register name="*" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>.values</text>
+        <text>2</text>
       </register>
     </registers>
   </component>
