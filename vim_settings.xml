@@ -61,12 +61,11 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590432762938">
-        <mark key="'" line="260" column="29" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="80" column="7" />
+      <file name="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" timestamp="1590434392381">
+        <mark key="'" line="249" column="29" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="/Python Console" timestamp="1584758344499">
         <mark key="[" line="0" column="0" />
@@ -238,40 +237,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="4">
-        <text>popular_shops</text>
+        <text>price_cnt_month_scaled.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyUlCgojYmVzdF9zZWxsaW5nX3Nob3BzID0gYmVzdF9zZWxsaW5nX3Nob3BzLnNvcnRfdmFsdWVzKGFzY2VuZGluZz1GYWxzZSlbOjE1XQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyUlCgoK</text>
+        <text encoding="base64">IyUlCiNUT0RPCm1pbl9tYXhfc2NhbGVyID0gTWluTWF4U2NhbGVyKCkKcHJpY2VfY250X21vbnRoID0gc2FsZXMuZ3JvdXBieSgnZGF0ZV9ibG9ja19udW0nKVsnaXRlbV9wcmljZSddLnN1bSgpCnBsdC5maWd1cmUoZmlnc2l6ZT0oMTUsNSkpCnByaWNlX2NudF9tb250aF9zY2FsZWQgPSBtaW5fbWF4X3NjYWxlci5maXRfdHJhbnNmb3JtKHByaWNlX2NudF9tb250aCkKcGx0LnBsb3QocHJpY2VfY250X21vbnRoX3NjYWxlZC5pbmRleCwgcHJpY2VfY250X21vbnRoX3NjYWxlZC52YWx1ZXMpCiMgcGx0LnBsb3QoaXRlbV9jbnRfbW9udGguaW5kZXgsIG1pbl9tYXhfc2NhbGVyLmZpdF90cmFuc2Zvcm0oaXRlbV9jbnRfbW9udGgudmFsdWVzKSkKcGx0LnhsYWJlbCgiTW9udGgiKQpwbHQueWxhYmVsKCIjIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aXRlbXNfcGVyX2NhdGVnb3J5ID0gaXRlbXMuaXRlbV9jYXRlZ29yeV9pZC52YWx1ZV9jb3VudHMoKS5pbG9jWzoxNV0K</text>
+        <text encoding="base64">cGx0LnBsb3QoaXRlbV9jbnRfbW9udGguaW5kZXgsIGl0ZW1fY250X21vbnRoLnZhbHVlcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YmVzdF9zZWxsaW5nX3Nob3BzID0gc2FsZXMuZ3JvdXBieSgnc2hvcF9pZCcpWydpdGVtX2NudF9kYXknXS5zdW0oKVs6MTVdCg==</text>
+        <text encoding="base64">cGx0LnBsb3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGx0LnRpdGxlKCJQb3B1bGFyIHNob3BzIikK</text>
+        <text encoding="base64">cGx0LnRpdGxlKCJUb3RhbCBwcmljZSBvZiBpdGVtcyBzb2xkIGluIGVhY2ggbW9udGgiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGx0LnRpdGxlKCIjIGl0ZW1zIHBlciBjYXRlZ29yeSIpCg==</text>
+        <text encoding="base64">CiMlJQoK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiNpdGVtc19wZXJfY2F0ZWdvcnkgPSBpdGVtc19wZXJfY2F0ZWdvcnkjLnNvcnRfaW5kZXgoc29ydF9yZW1haW5pbmc9VHJ1ZSk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">c25zLmJhcnBsb3QocHJpY2VfY250X21vbnRoLmluZGV4LCBwcmljZV9jbnRfbW9udGgudmFsdWVzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMgRXhwbG9yYXRvcnkgRGF0YSBBbmFseXNpcwo=</text>
+        <text encoding="base64">c25zLmJhcnBsb3QoaXRlbV9jbnRfbW9udGguaW5kZXgsIGl0ZW1fY250X21vbnRoLnZhbHVlcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyUlIG1kCgotIFRoZSBjb3JyZWxhdGlvbiBpcyAwLjczNQoK</text>
+        <text encoding="base64">cGx0LnRpdGxlKCJOdW1iZXIgb2YgaXRlbXMgc29sZCBpbiBlYWNoIG1vbnRoIikK</text>
       </register>
-      <register name="*" type="4">
-        <text>sns.barplot</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sns.barplot</text>
+        <text>)</text>
       </register>
     </registers>
   </component>
