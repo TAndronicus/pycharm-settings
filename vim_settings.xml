@@ -86,8 +86,13 @@
       <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchCsvAggregator.py" timestamp="1584287915119">
         <mark key="'" line="62" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchAnalysis.py" timestamp="1584765681282">
-        <mark key="'" line="118" column="32" />
+      <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/DynamicDtreeAnalysis.py" timestamp="1594320611376">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchAnalysis.py" timestamp="1594320357845">
+        <mark key="'" line="157" column="45" />
         <mark key="[" line="157" column="46" />
         <mark key="]" line="157" column="46" />
         <mark key="." line="157" column="46" />
@@ -98,12 +103,6 @@
         <mark key="]" line="8" column="52" />
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="52" />
-      </file>
-      <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/try.py" timestamp="1582992413436">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="11" column="10" />
-        <mark key="^" line="8" column="20" />
       </file>
       <file name="/DtsBatchAnalysis" timestamp="1584765618191">
         <mark key="[" line="0" column="0" />
@@ -133,20 +132,18 @@
       <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/dtd-batch/5_2_[20_40_60]" timestamp="1584287574001">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/try" timestamp="1582992386394">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/reports/1-batch.csv" timestamp="1584772854436">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="78" column="82" />
+      </file>
+      <file name="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" timestamp="1594320372848">
+        <mark key="'" line="184" column="34" />
       </file>
       <file name="/stats1.ipynb" timestamp="1584396190105">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="21" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
-      <jump line="50" column="20" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
       <jump line="16" column="26" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
       <jump line="293" column="7" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
       <jump line="184" column="32" filename="$USER_HOME$/Workspace/Python/classifier-integration-analysis/StatisticalAnalysis.py" />
@@ -245,6 +242,8 @@
       <jump line="2" column="0" filename="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" />
       <jump line="281" column="29" filename="/mnt/mag/Workspace/Python/predict-future-sales/Coursera_Final_Project.ipynb" />
       <jump line="36" column="24" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/ClassificationAnalysis.py" />
+      <jump line="157" column="45" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtsBatchAnalysis.py" />
+      <jump line="184" column="34" filename="/mnt/mag/Workspace/Python/classifier-integration-analysis/DtdAnalysis.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -253,37 +252,37 @@
         <text encoding="base64">CiAgICAgICAgc2VsZi5pX2FjYyA9IGlfYWNjCiAgICAgICAgc2VsZi5pX21jYyA9IGlfbWNj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIixcdCIgKyBzdHIoc2VsZi5pX21jYykgKyAiXHQ6XHQiICsgc3RyKHNlbGYubXZfbWNjKQo=</text>
+        <text encoding="base64">YWxwaGFzID0gWyIwLjAiLCAiMC4zIiwgIjAuNyIsICIxLjAiXQpiZXRhczEgPSBbIjAuNSJdCmJldGFzMiA9IFsiMC4wIl0KZ2FtbWFzMSA9IFsiMjAuMCIsICI1LjAiLCAiMjAuMCIsICIxMC4wIl0KZ2FtbWFzMiA9IFsiNS4wIiwgIjUuMCIsICIyMC4wIiwgIjEwLjAiXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyUlIG1kCgojIyMgRmluYWwgZGF0YSAtIFdpbGwgYmUgdXNlZCBmb3IgdHJhaW5pbmcgYW5kIHZhbGlkYXRpb24KCiMlJQoKYWxsX2RhdGEuaGVhZCgpCgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyUlCgp0b19kcm9wX2NvbHMKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiMgTGlzdCBvZiBhbGwgbGFnZ2VkIGZlYXR1cmVzCmZpdF9jb2xzID0gW2NvbCBmb3IgY29sIGluIGFsbF9kYXRhLmNvbHVtbnMgaWYgY29sWy0xXSBpbiBbc3RyKGl0ZW0pIGZvciBpdGVtIGluIHNoaWZ0X3JhbmdlXV0KIyBXZSB3aWxsIGRyb3AgdGhlc2UgYXQgZml0dGluZyBzdGFnZQp0b19kcm9wX2NvbHMgPSBbJ3RhcmdldF9pdGVtJywgJ3RhcmdldF9zaG9wJywgJ3RhcmdldCcsICdkYXRlX2Jsb2NrX251bSddCnRvX2Ryb3BfY29scyA9IGxpc3Qoc2V0KGxpc3QoYWxsX2RhdGEuY29sdW1ucykpIC0gKHNldChmaXRfY29scyl8c2V0KGluZGV4X2NvbHMpKSkgKyBbJ2RhdGVfYmxvY2tfbnVtJ10KCiMgQ2F0ZWdvcnkgZm9yIGVhY2ggaXRlbQppdGVtX2NhdGVnb3J5X21hcHBpbmcgPSBpdGVtc1tbJ2l0ZW1faWQnLCAnaXRlbV9jYXRlZ29yeV9pZCddXS5kcm9wX2R1cGxpY2F0ZXMoKQphbGxfZGF0YSA9IHBkLm1lcmdlKGFsbF9kYXRhLCBpdGVtX2NhdGVnb3J5X21hcHBpbmcsIGhvdz0nbGVmdCcsIG9uPSdpdGVtX2lkJykKYWxsX2RhdGEgPSBkb3duY2FzdF9kdHlwZXMoYWxsX2RhdGEpCgpnYy5jb2xsZWN0KCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBEb24ndCB1c2Ugb2xkIGRhdGEgZnJvbSB5ZWFyIDIwMTMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">I1RPRE8KCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Pwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">cHJpbnQodGVzdF9ibG9ja19yZWwpCnByaW50KGludCh0ZXN0X2Jsb2NrIC8gMTIpKQo=</text>
-      </register>
-      <register name="*" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIixcdCIgKyBzdHIoc2VsZi5pX21jYykgKyAiXHQ6XHQiICsgc3RyKHNlbGYubXZfbWNjKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyUlIG1kCgojIyMgRmluYWwgZGF0YSAtIFdpbGwgYmUgdXNlZCBmb3IgdHJhaW5pbmcgYW5kIHZhbGlkYXRpb24KCiMlJQoKYWxsX2RhdGEuaGVhZCgpCgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyUlCgp0b19kcm9wX2NvbHMKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiMgTGlzdCBvZiBhbGwgbGFnZ2VkIGZlYXR1cmVzCmZpdF9jb2xzID0gW2NvbCBmb3IgY29sIGluIGFsbF9kYXRhLmNvbHVtbnMgaWYgY29sWy0xXSBpbiBbc3RyKGl0ZW0pIGZvciBpdGVtIGluIHNoaWZ0X3JhbmdlXV0KIyBXZSB3aWxsIGRyb3AgdGhlc2UgYXQgZml0dGluZyBzdGFnZQp0b19kcm9wX2NvbHMgPSBbJ3RhcmdldF9pdGVtJywgJ3RhcmdldF9zaG9wJywgJ3RhcmdldCcsICdkYXRlX2Jsb2NrX251bSddCnRvX2Ryb3BfY29scyA9IGxpc3Qoc2V0KGxpc3QoYWxsX2RhdGEuY29sdW1ucykpIC0gKHNldChmaXRfY29scyl8c2V0KGluZGV4X2NvbHMpKSkgKyBbJ2RhdGVfYmxvY2tfbnVtJ10KCiMgQ2F0ZWdvcnkgZm9yIGVhY2ggaXRlbQppdGVtX2NhdGVnb3J5X21hcHBpbmcgPSBpdGVtc1tbJ2l0ZW1faWQnLCAnaXRlbV9jYXRlZ29yeV9pZCddXS5kcm9wX2R1cGxpY2F0ZXMoKQphbGxfZGF0YSA9IHBkLm1lcmdlKGFsbF9kYXRhLCBpdGVtX2NhdGVnb3J5X21hcHBpbmcsIGhvdz0nbGVmdCcsIG9uPSdpdGVtX2lkJykKYWxsX2RhdGEgPSBkb3duY2FzdF9kdHlwZXMoYWxsX2RhdGEpCgpnYy5jb2xsZWN0KCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBEb24ndCB1c2Ugb2xkIGRhdGEgZnJvbSB5ZWFyIDIwMTMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I1RPRE8KCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Pwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">YWxwaGFzID0gWyIwLjAiLCAiMC4zIiwgIjAuNyIsICIxLjAiXQpiZXRhczEgPSBbIjAuNSJdCmJldGFzMiA9IFsiMC4wIl0KZ2FtbWFzMSA9IFsiMjAuMCIsICI1LjAiLCAiMjAuMCIsICIxMC4wIl0KZ2FtbWFzMiA9IFsiNS4wIiwgIjUuMCIsICIyMC4wIiwgIjEwLjAiXQo=</text>
+      </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>DtsBatch</text>
       </register>
     </registers>
   </component>
